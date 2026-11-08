@@ -1,63 +1,63 @@
 {
-  "version": "2026-11-08T07:56:48.418Z",
+  "version": "2026-11-08T08:08:08.822Z",
   "files": [
     {
-      "path": "data/Full Mondstadt -  English.zip",
+      "path": "Data/Full Mondstadt -  English.zip",
       "size": 19767,
       "sha256": "9e9ebc9633648092216e2b0145f1d13e8ed7b800fea60836d90be1b5206d1f1f"
     },
     {
-      "path": "data/Full Mondstadt -  Portuguese.zip",
+      "path": "Data/Full Mondstadt -  Portuguese.zip",
       "size": 19954,
       "sha256": "7cd1fadfcbb0cbc5cb4f2df7aad23c50b34447cc3277777205abccaa171c6eeb"
     },
     {
-      "path": "data/Full Mondstadt - Russian.zip",
+      "path": "Data/Full Mondstadt - Russian.zip",
       "size": 20363,
       "sha256": "d173b9f59224ca5d276090ab3bab9f8475aa204cec9f452c4d670d4e9459c50f"
     },
     {
-      "path": "data/Full Mondstadt - Vietnamese.zip",
+      "path": "Data/Full Mondstadt - Vietnamese.zip",
       "size": 19711,
       "sha256": "4548c3d08ee33a461110b2e8d846ad00696a8642b3f6d480972a3bbfd39bba1a"
     },
     {
-      "path": "data/Full Mondstadt Split Ver. - English.zip",
+      "path": "Data/Full Mondstadt Split Ver. - English.zip",
       "size": 25360,
       "sha256": "12c6e0fc0966454b602961d1d7ab136655027b101d00e9ac65da49a28e14b94a"
     },
     {
-      "path": "data/Full Mondstadt Split Ver. - Portuguese.zip",
+      "path": "Data/Full Mondstadt Split Ver. - Portuguese.zip",
       "size": 25729,
       "sha256": "31b43041955c9cd9dd0554fbf0b326864f5bf18dcb978ca8ad42764fe0a06f8a"
     },
     {
-      "path": "data/Full Mondstadt Split Ver. - Russian.zip",
+      "path": "Data/Full Mondstadt Split Ver. - Russian.zip",
       "size": 26579,
       "sha256": "6c549d41b72266e398610cdab686454895571071d40724386d367cce1df36eba"
     },
     {
-      "path": "data/Full Mondstadt Split Ver. - Vietnamese.zip",
+      "path": "Data/Full Mondstadt Split Ver. - Vietnamese.zip",
       "size": 25412,
       "sha256": "7a5789d39be173f0f7838d3e51a936c08165aabab29b61d688f6e3011f99c434"
     },
     {
-      "path": "data/Full Mondstadt Unsplit Ver. - English.zip",
+      "path": "Data/Full Mondstadt Unsplit Ver. - English.zip",
       "size": 21550,
       "sha256": "a852d09253a589efe2d5124ba6aaa5f7a59ffa1b81aa7679ee81ee50e3e4c4d6"
     },
     {
-      "path": "data/Full Mondstadt Unsplit Ver. - Portuguese.zip",
+      "path": "Data/Full Mondstadt Unsplit Ver. - Portuguese.zip",
       "size": 21767,
       "sha256": "a9c254b2d74f25e50382bb6ee1ca606e1037d0a0cecb34fafb904a8b9b38550b"
     },
     {
-      "path": "data/Full Mondstadt Unsplit Ver. - Russian.zip",
+      "path": "Data/Full Mondstadt Unsplit Ver. - Russian.zip",
       "size": 22378,
       "sha256": "515ace20b73361d21aacd7a662c8d47463daa2652799339b7597b9b919bc241e"
     },
     {
-      "path": "data/Full Mondstadt Unsplit Ver. - Vietnamese.zip",
+      "path": "Data/Full Mondstadt Unsplit Ver. - Vietnamese.zip",
       "size": 21569,
       "sha256": "accc61bef91dbe0df8f05ee351ee6c860e24a8d1ce768a1d5a483f917b77e704"
     }
