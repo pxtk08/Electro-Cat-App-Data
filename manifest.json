@@ -1,6 +1,271 @@
 {
-  "version": "2026-11-08T08:11:24.928Z",
+  "version": "2026-11-08T12:10:02.607Z",
   "files": [
+    {
+      "path": "Data/All In One Snezhnaya - English.zip",
+      "size": 38537,
+      "sha256": "c7b5e1fd37c21ab2edd228eb82a3b221d636b851fca4db4cb7c883b4bd7dea91"
+    },
+    {
+      "path": "Data/All In One Snezhnaya - Russian.zip",
+      "size": 41404,
+      "sha256": "a68ba1a46150c869c524a4e1fab343b5a389f9f77a5e30a0f2ae04aa8a5aeb7c"
+    },
+    {
+      "path": "Data/All In One Snezhnaya - Vietnamese.zip",
+      "size": 38079,
+      "sha256": "b66b20b807fddb771b1a5cc5484b561bdc7e1921597c722dca150c00668e042a"
+    },
+    {
+      "path": "Data/All Oculus For All Regions.zip",
+      "size": 32398,
+      "sha256": "d691ed0aa6bbcfdb255ca3ed08dbd0f680e3299e7978aea798954f7c2efdbe9c"
+    },
+    {
+      "path": "Data/All Teleport Waypoints For All Regions.zip",
+      "size": 12857,
+      "sha256": "d26087c0f1de9f3616bf6c59abe7be66f1669b835a3ac82bc98d2a94bdb7c815"
+    },
+    {
+      "path": "Data/All in One Snezhnaya - Portuguese.zip",
+      "size": 42343,
+      "sha256": "b3d2b826b453a44fe1c3c499eb514a9ed2676626adc825c110a93bec1b78e122"
+    },
+    {
+      "path": "Data/Full Dragonspine - English.zip",
+      "size": 16015,
+      "sha256": "1bca4b07af55a2c7af7d325ba87187f3dceb568cb7a9f7f4cf0d755b47ebc36d"
+    },
+    {
+      "path": "Data/Full Dragonspine - Portuguese.zip",
+      "size": 16210,
+      "sha256": "b4f93fc646be4f010b0acaa1ea39ab960f9a758577c00a8d2f42122060f1ab4e"
+    },
+    {
+      "path": "Data/Full Dragonspine - Russian.zip",
+      "size": 16725,
+      "sha256": "167477022d024c963c13a5ab192ac48b5e109e6c4d4f835e5cf852f11f04ad2b"
+    },
+    {
+      "path": "Data/Full Dragonspine - Vietnamese.zip",
+      "size": 15924,
+      "sha256": "dca36a4078d0bd2d23ae0266f44e21eb9a81450dfcdb7e0567ef63ccb039d459"
+    },
+    {
+      "path": "Data/Full Dragonspine Split Ver. - English.zip",
+      "size": 20532,
+      "sha256": "9be02e2d06347709049f5ec1726e4b7a349d6cf528cd28e2f0023281f44f96c4"
+    },
+    {
+      "path": "Data/Full Dragonspine Split Ver. - Portuguese.zip",
+      "size": 20927,
+      "sha256": "97755f706e3a12903edeafb61eff9fea46052312f5eae758f215c8d851737123"
+    },
+    {
+      "path": "Data/Full Dragonspine Split Ver. - Russian.zip",
+      "size": 21686,
+      "sha256": "13bb4612aec332f4d742a8239b44b0cda71e39cc95f79e5145f8d8af62b318d8"
+    },
+    {
+      "path": "Data/Full Dragonspine Split Ver. - Vietnamese.zip",
+      "size": 20608,
+      "sha256": "a974f181aba963168ddba4648052c8e482c3a3063187bbf4854649f4bd1046c9"
+    },
+    {
+      "path": "Data/Full Dragonspine Unsplit Ver. - English.zip",
+      "size": 16899,
+      "sha256": "4fe0f9bbdd6df44b0945d7d5cfb8614cee7f2ac1519d0a6ef741982e223c28d5"
+    },
+    {
+      "path": "Data/Full Dragonspine Unsplit Ver. - Portuguese.zip",
+      "size": 17189,
+      "sha256": "12006ba49a8416e5b23e6343e04b7fbca16e6ce59e002ccf6a976fc1f4949daa"
+    },
+    {
+      "path": "Data/Full Dragonspine Unsplit Ver. - Russian.zip",
+      "size": 17719,
+      "sha256": "681198126f3ca82909a18ec40a13a8f7ca3bb72a2dec9485c972bb3924f10bad"
+    },
+    {
+      "path": "Data/Full Dragonspine Unsplit Ver. - Vietnamese.zip",
+      "size": 16863,
+      "sha256": "108ee89bf7cf0e9c97126ca741618c810fa6322ccff43976cf9bae16c8754008"
+    },
+    {
+      "path": "Data/Full Fontaine - English.zip",
+      "size": 78204,
+      "sha256": "4c42a863f428e0880e4a37e2732c4b52b8787486c3cd4aacdc8ef1b55a98314a"
+    },
+    {
+      "path": "Data/Full Fontaine - Russian.zip",
+      "size": 80601,
+      "sha256": "7ab7c66fab5f24f1c29bfc6f75e9e21cf97a68f8b03e04b764c1b6b6acb7265a"
+    },
+    {
+      "path": "Data/Full Fontaine - Vietnamese.zip",
+      "size": 77935,
+      "sha256": "1ff33c86a5c2e95a5e666ad16c988e856d801c82ab6b16ecee8641f463d71c21"
+    },
+    {
+      "path": "Data/Full Fontaine Split Ver. - English.zip",
+      "size": 87051,
+      "sha256": "e3115f32746db97f1509f3f037fbcaab61dcb208f6358b547f8c720b20009e51"
+    },
+    {
+      "path": "Data/Full Fontaine Split Ver. - Portuguese.zip",
+      "size": 88116,
+      "sha256": "1e8256091503a32572f72c3fb778a3c912edd90e2bd5bb430ec24dd9df421c03"
+    },
+    {
+      "path": "Data/Full Fontaine Split Ver. - Russian.zip",
+      "size": 90243,
+      "sha256": "98f151ecb1fea0f6fe1846d3e88bfd15694a9a20202bd17f52f47e7247a8c48a"
+    },
+    {
+      "path": "Data/Full Fontaine Split Ver. - Vietnamese.zip",
+      "size": 86959,
+      "sha256": "08603e2065ffd46dbe5399ec33331beec5a995a5214f0fc66ede5e10c255f0db"
+    },
+    {
+      "path": "Data/Full Fontaine Unsplit Ver. - English.zip",
+      "size": 82591,
+      "sha256": "50ca44c8e94408e269da29919c0f70157348395eccb895267a87454351cdedca"
+    },
+    {
+      "path": "Data/Full Fontaine Unsplit Ver. - Portuguese.zip",
+      "size": 83370,
+      "sha256": "389096648cf17c03ad2d76db2520635e8128df2d7684708258a9e045d5aa8c47"
+    },
+    {
+      "path": "Data/Full Fontaine Unsplit Ver. - Russian.zip",
+      "size": 85394,
+      "sha256": "c73a9791b4b810ec9a4ef749fa05373d650357bf9fa91c4bf1021413d8f708e4"
+    },
+    {
+      "path": "Data/Full Fontaine Unsplit Ver. - Vietnamese.zip",
+      "size": 82275,
+      "sha256": "1454934a0fbfe8dbdae1276c987d1a8877bc8caf0371e769260d12d8a9b57f10"
+    },
+    {
+      "path": "Data/Full Inazuma - English.zip",
+      "size": 69523,
+      "sha256": "d7d01c408629e462bf6672516880299dd4beefd2c64623060fceafff164b15a6"
+    },
+    {
+      "path": "Data/Full Inazuma - Portuguese.zip",
+      "size": 70488,
+      "sha256": "c4a99e1d265f89fd71dab419d70a143569a38ca2e6ea212da9c85f86bae46171"
+    },
+    {
+      "path": "Data/Full Inazuma - Russian.zip",
+      "size": 71935,
+      "sha256": "4986b77a948c65a458a1d3793d4ad2cf90c8da5c852bdfb6b9b2e3282fe1fb4f"
+    },
+    {
+      "path": "Data/Full Inazuma - Vietnamese.zip",
+      "size": 68851,
+      "sha256": "266bf6ff3eab59382dab7c3bef7bfc9d8dd9ed6967f5b8d9bf3da1da8def833e"
+    },
+    {
+      "path": "Data/Full Inazuma Split Ver. - English.zip",
+      "size": 79471,
+      "sha256": "80792267082fd183070e21b9663b6914c53086b4801cc748d41c0fb83099b41e"
+    },
+    {
+      "path": "Data/Full Inazuma Split Ver. - Portuguese.zip",
+      "size": 80733,
+      "sha256": "ec2257256da501d51bd1988a1d973ab528cdd6be99dc19571f2d988a5ae5d317"
+    },
+    {
+      "path": "Data/Full Inazuma Split Ver. - Russian.zip",
+      "size": 83011,
+      "sha256": "4a63a06d81b6edaefbf0a572c2b993aebdfa05e33ee09135a81c4b184f9b33dc"
+    },
+    {
+      "path": "Data/Full Inazuma Split Ver. - Vietnamese.zip",
+      "size": 79029,
+      "sha256": "fa927f3b03318f19027be6387db241d857ef2296416e4b9fcceb689328e6d277"
+    },
+    {
+      "path": "Data/Full Inazuma Unsplit Ver. - English.zip",
+      "size": 75576,
+      "sha256": "9ee3dc9f4b97423d2e08c419fba3e638442f87798807205e9d046d76d81327ed"
+    },
+    {
+      "path": "Data/Full Inazuma Unsplit Ver. - Portuguese.zip",
+      "size": 77009,
+      "sha256": "92320e2db62d34db57f500731c8e853f631ef49cabcf7fd3f511e26d187ea6c8"
+    },
+    {
+      "path": "Data/Full Inazuma Unsplit Ver. - Russian.zip",
+      "size": 78885,
+      "sha256": "941e90735fae3245ddc0e7091193af2a681d7d8070bc43aa3aa30abb1049d0d5"
+    },
+    {
+      "path": "Data/Full Inazuma Unsplit Ver. - Vietnamese.zip",
+      "size": 75263,
+      "sha256": "8e4b8a3a379a1b8c18ba200185b7552c4475965ed7c5b4de4b3ca0ee19606326"
+    },
+    {
+      "path": "Data/Full Liyue - English.zip",
+      "size": 51064,
+      "sha256": "7471a7a6bc3499deff6fa78f471f9770aa953fc4dae124918049cea38057a0a1"
+    },
+    {
+      "path": "Data/Full Liyue - Portuguese.zip",
+      "size": 51289,
+      "sha256": "917c4b900318fd56c46793208c8b07b24b9ee9d1d16eb9d342ec036bca5f6baa"
+    },
+    {
+      "path": "Data/Full Liyue - Russian.zip",
+      "size": 52908,
+      "sha256": "c8f67a7fbb388f5c77211576162d46717356f0121c08aa41b1abf16b293ed104"
+    },
+    {
+      "path": "Data/Full Liyue - Vietnamese.zip",
+      "size": 50738,
+      "sha256": "4b66eb871a6fdc9e569a10085248a46d7d325ecadc47cb5f8489c66c6496045d"
+    },
+    {
+      "path": "Data/Full Liyue Split Ver. - English.zip",
+      "size": 59392,
+      "sha256": "6d87c2c068549669047e3458cdba3c61c67f641d4d1af604d6e52e11ce62994b"
+    },
+    {
+      "path": "Data/Full Liyue Split Ver. - Portuguese.zip",
+      "size": 59936,
+      "sha256": "ba7b6b0b68530e2c1a8983861754ac1b55d018db8a36aff1d784cdd7319853aa"
+    },
+    {
+      "path": "Data/Full Liyue Split Ver. - Russian.zip",
+      "size": 61444,
+      "sha256": "a34be733503dab2dae05d72c19020155f0381bd0183c5d64c62ff3e2c35ccf88"
+    },
+    {
+      "path": "Data/Full Liyue Split Ver. - Vietnamese.zip",
+      "size": 59526,
+      "sha256": "870c0f22e69647b31f462926611af35de3e287ea50126a18f68aa546a31aa945"
+    },
+    {
+      "path": "Data/Full Liyue Unsplit Ver. - English.zip",
+      "size": 55298,
+      "sha256": "9f3cf1f3f634858d320a9a42c6babc604bf32c9b165c0d606a228a0099bfd8e2"
+    },
+    {
+      "path": "Data/Full Liyue Unsplit Ver. - Portuguese.zip",
+      "size": 55823,
+      "sha256": "989d19e191cbf7d00eb1199c905a65e938713ebf6c6cffa44baedf09dfb08436"
+    },
+    {
+      "path": "Data/Full Liyue Unsplit Ver. - Russian.zip",
+      "size": 57564,
+      "sha256": "ecf3eec4f9deddb7324b22d3a774464d7dd1f8e75313afbb2411f52674e4be07"
+    },
+    {
+      "path": "Data/Full Liyue Unsplit Ver. - Vietnamese.zip",
+      "size": 54976,
+      "sha256": "ea17a96bf3edc653f953ed9f0f5be937c88f07030367d7e49a02772c0aaf8142"
+    },
     {
       "path": "Data/Full Mondstadt -  English.zip",
       "size": 19767,
@@ -60,6 +325,86 @@
       "path": "Data/Full Mondstadt Unsplit Ver. - Vietnamese.zip",
       "size": 21569,
       "sha256": "accc61bef91dbe0df8f05ee351ee6c860e24a8d1ce768a1d5a483f917b77e704"
+    },
+    {
+      "path": "Data/Full Sumeru - English.zip",
+      "size": 155275,
+      "sha256": "5a7b595d072c5db7c8bf19318837fabcd7f395eeae6d95bcaa749c910a38af14"
+    },
+    {
+      "path": "Data/Full Sumeru - Portuguese.zip",
+      "size": 156591,
+      "sha256": "89217de1b2d35515b33270349be7e37b20cdd76f448ae84857df599793ada145"
+    },
+    {
+      "path": "Data/Full Sumeru - Russian.zip",
+      "size": 160023,
+      "sha256": "9e3ce365fba58b6ab625d01d635bef0f531cbde0b82fbbb49dd03a6dd53156f8"
+    },
+    {
+      "path": "Data/Full Sumeru - Vietnamese.zip",
+      "size": 154681,
+      "sha256": "d251bfe93cc624af2f34b00969386c1cdc0b7164ee81336bed59180d1496fb81"
+    },
+    {
+      "path": "Data/Full Sumeru Split Ver. - English.zip",
+      "size": 173932,
+      "sha256": "785abcc8d93b8a3bb0cd374a4ee5c234084337a2b9c9271af8a537e25a83a997"
+    },
+    {
+      "path": "Data/Full Sumeru Split Ver. - Portuguese.zip",
+      "size": 175543,
+      "sha256": "7789a4aee72a6020de295299def2f72c491b3c063d55b1d3f21812fd3235e2b0"
+    },
+    {
+      "path": "Data/Full Sumeru Split Ver. - Russian.zip",
+      "size": 179700,
+      "sha256": "aa00a91cefa7cbb9741aeec8b74b4866c58c0672cf94efe3bb491b8d4db93b59"
+    },
+    {
+      "path": "Data/Full Sumeru Split Ver. - Vietnamese.zip",
+      "size": 173407,
+      "sha256": "2bfe598d291138b8bcee8da5529fa30e2a4acf67bdf3815bf4433072d87ec794"
+    },
+    {
+      "path": "Data/Full Sumeru Unsplit Ver. - English.zip",
+      "size": 164404,
+      "sha256": "53b3ab4193a5cda11277ec2b79e95f2ee9a27c18c555a5675aaa9c00bbf0acc4"
+    },
+    {
+      "path": "Data/Full Sumeru Unsplit Ver. - Portuguese.zip",
+      "size": 165705,
+      "sha256": "3b0838b06094fc0730ee492ba4da31ac59ea1c1c247a18b408c8500fef6dce6e"
+    },
+    {
+      "path": "Data/Full Sumeru Unsplit Ver. - Russian.zip",
+      "size": 169237,
+      "sha256": "eaa4347afc0af9991399ccdff847580c5fb7855008ddfa8ed1140bc3d4f71e7d"
+    },
+    {
+      "path": "Data/Full Sumeru Unsplit Ver. - Vietnamese.zip",
+      "size": 163728,
+      "sha256": "39ad9654f68012613ae82900d3250cda7ae8f44c67ecf87e3cf88d4e3e6b0494"
+    },
+    {
+      "path": "Data/Snezhnaya 7.2 Unsplit Ver. - English.zip",
+      "size": 26715,
+      "sha256": "17f245ebbc56ad23623d7f898b9d6ecb6c17d3ea8bb398ed333d082c508fdd37"
+    },
+    {
+      "path": "Data/Snezhnaya 7.2 Unsplit Ver. - Portuguese.zip",
+      "size": 27087,
+      "sha256": "b166d72db6a04348bc5f580af9aed441f97e66c3b5bfc84bf1354fda0a12152f"
+    },
+    {
+      "path": "Data/Snezhnaya 7.2 Unsplit Ver. - Russian.zip",
+      "size": 27760,
+      "sha256": "2feccfe01cf4ada059b6407f4640fb26c94a1ae622a29ba7cc96e8cbb63aad66"
+    },
+    {
+      "path": "Data/Snezhnaya 7.2 Unsplit Ver. - Vietnamese.zip",
+      "size": 25795,
+      "sha256": "e6fd688c0974c81c7d08f4660c06640be5d88a41675106224cc534515ff1ff8e"
     }
   ]
 }
