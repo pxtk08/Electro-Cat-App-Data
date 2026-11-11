@@ -51,6 +51,10 @@
         "ru": {
           "title": "Руководство по использованию файлов телепортации",
           "summary": "Как использовать файлы, если вы не используете приложение. Этот способ можно использовать и для файлов из других источников, но обратите внимание: в папку Uni нужно вставлять ТОЛЬКО ОДИН ФАЙЛ ТОЧЕК ТЕЛЕПОРТАЦИИ."
+        },
+        "pt": {
+          "title": "Guia de Uso de Arquivos de Teleporte",
+          "summary": "Como usar arquivos se você não estiver usando o aplicativo. Este método também pode ser aplicado a arquivos de outras fontes, mas observe que você deve colar APENAS UM ARQUIVO DE WAYPOINTS na pasta Uni por vez."
         }
       }
     }
