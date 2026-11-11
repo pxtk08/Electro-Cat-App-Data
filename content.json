@@ -1,0 +1,47 @@
+{
+  "faq": [
+    {
+      "q": "Dùng file đã tải như thế nào?",
+      "a": "Mở app Electro Cat và nhập file .zip vừa tải (không cần giải nén). App tự phân loại theo TÊN FILE nên đừng đổi tên file."
+    },
+    {
+      "q": "File tổng và file chia lẻ khác nhau thế nào?",
+      "a": "File tổng gộp toàn bộ điểm của một vùng, file chia lẻ tách theo nhóm (Rương, Đánh Quái, Khiêu Chiến, Tiên Linh, Giải Đố) để bạn chọn dùng."
+    },
+    {
+      "q": "File tải về bị lỗi hoặc không đọc được?",
+      "a": "Hãy thử tải lại và kiểm tra đúng vùng, đúng ngôn ngữ. Nếu vẫn lỗi, vào mục Báo lỗi / Đóng góp và gửi kèm tên file, vùng, ngôn ngữ."
+    },
+    {
+      "q": "Làm sao biết file không bị sửa đổi?",
+      "a": "Nếu file có mã SHA-256, bấm nút SHA-256 để chép mã rồi so với mã tính từ file đã tải. Windows: certutil -hashfile ten-file.zip SHA256. Linux/macOS: sha256sum ten-file.zip (hoặc shasum -a 256 ten-file.zip)."
+    },
+    {
+      "q": "File cũ còn dùng được không?",
+      "a": "File cũ được giữ lại để dùng khi cần. Nên ưu tiên bản mới nhất và đọc ghi chú của file để biết khác biệt."
+    },
+    {
+      "q": "Làm sao biết có file mới?",
+      "a": "Xem mục Cập nhật: có nhật ký thay đổi và danh sách file mới nhất. Tải bản mới rồi thay file cũ."
+    }
+  ],
+  "updates": [
+    {
+      "d": "2026-11-10",
+      "t": "Ra mắt Kho File Tele",
+      "items": [
+        "Thêm file Mondstadt, Liyue và Điểm Tele (dữ liệu mẫu, hãy thay bằng nội dung thật)."
+      ]
+    }
+  ],
+  "guides": [
+    {
+      "slug": "huong-dan-su-dung-file-teleport",
+      "title": "Hướng Dẫn Sử Dụng File Teleport",
+      "summary": "",
+      "date": "2026-11-11",
+      "order": 0,
+      "draft": false
+    }
+  ]
+}
