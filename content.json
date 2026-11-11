@@ -1,5 +1,11 @@
 {
-  "faq": [],
+  "faq": [
+    {
+      "q": "File Split Và Unsplit Có Gì Khác Nhau?",
+      "a": "Hai loại file trên về bản chất là đều là 1 bộ waypoint nhưng 1 cái để nguyên cả 1 file dài và 1 cái tách ra nhiều file nhỏ. Cả 2 loại đều đảm bảo đầy đủ hướng dẫn giải đố, note trên từng waypoint và các waypoint tiện ích khác:\n\n- File Unsplit (thường chỉ bao gồm 1 file quest và 1 file chest) là file cũ ban đầu được đánh thêm số. Ưu điểm của file Unsplit là bạn không cần phải out ra thoát vào quá nhiều lần để xóa, rồi đổi file, rồi lại dán file vào thư mục Uni giúp quá trình chơi liền mạch. Nhưng mọi người nên cân nhắc sử dụng vì khối lượng waypoint rất lớn và có thể gây lag/crash máy khi dùng với unicore (vốn unicore đã có tính năng giúp máy bạn tự động crash); đó là  về phần nhược điểm.\n\n- File Split (thường bao gồm các phân loại chính là Rương, Rương Đánh Quái, Khiêu Chiến, Tiên Linh, Rương Giải Đố) bản chất là file Unsplit tách nhỏ ra mà thành. Đây là loại file ra đời sau khi có rất nhiều những góp ý của mọi người trong server về việc máy yếu không thể chạy được file này mặc dù rất thích dùng file của tôi. Ưu điểm thì nhờ việc chia nhỏ các file nên tối ưu hơn cho thiết bị của tất cả mọi người. Nhưng nhược điểm là quá trình chạy map sẽ thường xuyên phải out ra để thao tác xóa, dán file nhiều hơn; nhưng đã có app để giải quyết vấn đề đó",
+      "lang": "vi"
+    }
+  ],
   "updates": [
     {
       "d": "2026-11-10",
