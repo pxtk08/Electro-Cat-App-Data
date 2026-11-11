@@ -5,10 +5,6 @@
       "a": "Hãy thử tải lại và kiểm tra đúng vùng, đúng ngôn ngữ. Nếu vẫn lỗi, vào mục Báo lỗi / Đóng góp và gửi kèm tên file, vùng, ngôn ngữ."
     },
     {
-      "q": "Làm sao biết file không bị sửa đổi?",
-      "a": "Nếu file có mã SHA-256, bấm nút SHA-256 để chép mã rồi so với mã tính từ file đã tải. Windows: certutil -hashfile ten-file.zip SHA256. Linux/macOS: sha256sum ten-file.zip (hoặc shasum -a 256 ten-file.zip)."
-    },
-    {
       "q": "File cũ còn dùng được không?",
       "a": "File cũ được giữ lại để dùng khi cần. Nên ưu tiên bản mới nhất và đọc ghi chú của file để biết khác biệt."
     },
