@@ -1,12 +1,12 @@
 {
   "faq": [
     {
-      "q": "Dùng file đã tải như thế nào?",
-      "a": "Mở app Electro Cat và nhập file .zip vừa tải (không cần giải nén). App tự phân loại theo TÊN FILE nên đừng đổi tên file."
-    },
-    {
       "q": "File tổng và file chia lẻ khác nhau thế nào?",
       "a": "File tổng gộp toàn bộ điểm của một vùng, file chia lẻ tách theo nhóm (Rương, Đánh Quái, Khiêu Chiến, Tiên Linh, Giải Đố) để bạn chọn dùng."
+    },
+    {
+      "q": "Dùng file đã tải như thế nào?",
+      "a": "Mở app Electro Cat và nhập file .zip vừa tải (không cần giải nén). App tự phân loại theo TÊN FILE nên đừng đổi tên file."
     },
     {
       "q": "File tải về bị lỗi hoặc không đọc được?",
