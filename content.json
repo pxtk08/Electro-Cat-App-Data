@@ -31,7 +31,28 @@
       "t": "Ra mắt Kho File Tele",
       "items": [
         "Tổng hợp và phân loại file tele trong server lên web."
-      ]
+      ],
+      "i18n": {
+        "en": {
+          "t": "Launch of the Teleport File Archive",
+          "items": [
+            "Aggregated and categorized all server teleport files on the website."
+          ]
+        },
+        "ru": {
+          "t": "Запуск архива файлов телепортации",
+          "items": [
+            "Собраны и распределены по категориям все файлы телепортации сервера на сайте."
+          ]
+        },
+        "pt": {
+          "t": "Lançamento do Arquivo de Arquivos de Teleporte",
+          "items": [
+            "Compilados e categorizados todos os arquivos de teleporte do servidor no site."
+          ]
+        }
+      },
+      "lang": "vi"
     }
   ],
   "guides": [
