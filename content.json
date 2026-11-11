@@ -70,6 +70,17 @@
       "order": 0,
       "draft": false,
       "grp": "huong-dan-su-dung-file-teleport"
+    },
+    {
+      "slug": "huong-dan-su-dung-file-teleport",
+      "title": "Hướng Dẫn Sử Dụng File Teleport",
+      "alias": "",
+      "lang": "vi",
+      "summary": "Cách dùng file nếu bạn không sử dụng app. Có thể áp dụng cách sử dụng file này cho file của người khác nhưng lưu ý là chỉ paste MỘT FILE WAYPOINTS vào thư mục Uni thôi nhé.",
+      "date": "2026-11-11",
+      "order": 0,
+      "draft": false,
+      "grp": "huong-dan-su-dung-file-teleport"
     }
   ]
 }
