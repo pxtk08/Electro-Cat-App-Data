@@ -37,7 +37,7 @@
   "guides": [
     {
       "slug": "huong-dan-su-dung-file-teleport",
-      "title": "Hướng Dẫn Sử Dụng File Teleport",
+      "title": "Teleport File Usage Guide",
       "summary": "Cách dùng file nếu bạn không sử dụng app. Có thể áp dụng cách sử dụng file này cho file của người khác nhưng lưu ý là chỉ paste MỘT FILE WAYPOINTS vào thư mục Uni thôi nhé.",
       "date": "2026-11-11",
       "order": 0,
@@ -56,7 +56,8 @@
           "title": "Guia de Uso de Arquivos de Teleporte",
           "summary": "Como usar arquivos se você não estiver usando o aplicativo. Este método também pode ser aplicado a arquivos de outras fontes, mas observe que você deve colar APENAS UM ARQUIVO DE WAYPOINTS na pasta Uni por vez."
         }
-      }
+      },
+      "alias": ""
     }
   ]
 }
