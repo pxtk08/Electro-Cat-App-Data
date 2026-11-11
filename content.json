@@ -1,10 +1,5 @@
 {
-  "faq": [
-    {
-      "q": "File tải về bị lỗi hoặc không đọc được?",
-      "a": "Hãy thử tải lại và kiểm tra đúng vùng, đúng ngôn ngữ. Nếu vẫn lỗi, vào mục Báo lỗi / Đóng góp và gửi kèm tên file, vùng, ngôn ngữ."
-    }
-  ],
+  "faq": [],
   "updates": [
     {
       "d": "2026-11-10",
