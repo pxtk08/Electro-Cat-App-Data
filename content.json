@@ -7,10 +7,6 @@
     {
       "q": "File cũ còn dùng được không?",
       "a": "File cũ được giữ lại để dùng khi cần. Nên ưu tiên bản mới nhất và đọc ghi chú của file để biết khác biệt."
-    },
-    {
-      "q": "Làm sao biết có file mới?",
-      "a": "Xem mục Cập nhật: có nhật ký thay đổi và danh sách file mới nhất. Tải bản mới rồi thay file cũ."
     }
   ],
   "updates": [
