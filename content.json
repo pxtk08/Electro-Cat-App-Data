@@ -34,30 +34,5 @@
       ]
     }
   ],
-  "guides": [
-    {
-      "slug": "huong-dan-su-dung-file-teleport",
-      "title": "Teleport File Usage Guide",
-      "summary": "Cách dùng file nếu bạn không sử dụng app. Có thể áp dụng cách sử dụng file này cho file của người khác nhưng lưu ý là chỉ paste MỘT FILE WAYPOINTS vào thư mục Uni thôi nhé.",
-      "date": "2026-11-11",
-      "order": 0,
-      "draft": false,
-      "lang": "vi",
-      "i18n": {
-        "en": {
-          "title": "Teleport File Usage Guide",
-          "summary": "How to use files if you are not using the app. This method can also be applied to files from other sources, but please note to paste ONLY ONE WAYPOINTS FILE into the Uni folder at a time."
-        },
-        "ru": {
-          "title": "Руководство по использованию файлов телепортации",
-          "summary": "Как использовать файлы, если вы не используете приложение. Этот способ можно использовать и для файлов из других источников, но обратите внимание: в папку Uni нужно вставлять ТОЛЬКО ОДИН ФАЙЛ ТОЧЕК ТЕЛЕПОРТАЦИИ."
-        },
-        "pt": {
-          "title": "Guia de Uso de Arquivos de Teleporte",
-          "summary": "Como usar arquivos se você não estiver usando o aplicativo. Este método também pode ser aplicado a arquivos de outras fontes, mas observe que você deve colar APENAS UM ARQUIVO DE WAYPOINTS na pasta Uni por vez."
-        }
-      },
-      "alias": ""
-    }
-  ]
+  "guides": []
 }
