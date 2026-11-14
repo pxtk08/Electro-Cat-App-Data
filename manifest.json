@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-08T12:10:02.607Z",
+  "version": "2026-11-14T02:39:09.310Z",
   "files": [
     {
       "path": "Data/All In One Snezhnaya - English.zip",
@@ -23,8 +23,8 @@
     },
     {
       "path": "Data/All Teleport Waypoints For All Regions.zip",
-      "size": 12857,
-      "sha256": "d26087c0f1de9f3616bf6c59abe7be66f1669b835a3ac82bc98d2a94bdb7c815"
+      "size": 16879,
+      "sha256": "a84512bb59d6b79271de8fa3f04a11a4fe1edb747599464dc43c79a989997068"
     },
     {
       "path": "Data/All in One Snezhnaya - Portuguese.zip",
