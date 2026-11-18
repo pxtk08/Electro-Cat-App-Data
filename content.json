@@ -60,7 +60,21 @@
     {
       "q": "Tại Sao Một Số Thứ Như Mã Não Đỏ Thẫm Và Tịnh Quang Vũ Lại Thiếu Vậy?",
       "a": "**Đối với một số Mã Não Đỏ Thẫm và Tịnh Quang Vũ đã được hướng dẫn trong file chest rồi vì:**\n\n- Mã não đỏ thẫm ở Long Tích Tuyết Sơn thường nằm trong rương và một số lại cần giải đố nên tôi đã hướng dẫn và gộp chung vào trong file rương\n- Tịnh Quang Vũ bị thiếu trong file full thần đồng là những cái liên quan đến rương (là một phần giải đố để nhận rương) chính vì vậy nó sẽ nằm ở trong file rương và đều đã được hướng dẫn để lấy một cách dễ dàng.",
-      "lang": "vi"
+      "lang": "vi",
+      "i18n": {
+        "en": {
+          "q": "Why Are Some Things Like Crimson Agates and Radiant Spincrystals Missing?",
+          "a": "**For some Crimson Agates and Radiant Spincrystals, they are already covered in the chest file because:**\n\n- Crimson Agates in Dragonspine are often inside chests and some require solving puzzles, so I have included instructions and grouped them together in the chest file\n- The Radiant Spincrystals missing from the full oculus file are the ones tied to chests (as part of a puzzle to get a chest), so they are in the chest file and all have instructions to obtain them easily."
+        },
+        "ru": {
+          "q": "Почему не хватает некоторых вещей, таких как багровые агаты и лучистые кристаллы?",
+          "a": "**Некоторые багровые агаты и лучистые кристаллы уже разобраны в файле сундуков, потому что:**\n\n- Багровые агаты на Драконьем хребте часто лежат в сундуках, а для получения некоторых нужно решить головоломки, поэтому я добавил инструкции и объединил их в файле сундуков\n- Лучистые кристаллы, которых не хватает в полном файле окулусов, связаны с сундуками (являются частью головоломки для получения сундука), поэтому они находятся в файле сундуков, и ко всем есть инструкции, чтобы легко их забрать."
+        },
+        "pt": {
+          "q": "Por que faltam algumas coisas como Ágatas Escarlates e Cristais Radiantes?",
+          "a": "**Quanto a algumas Ágatas Escarlates e Cristais Radiantes, eles já foram explicados no arquivo de baús porque:**\n\n- As Ágatas Escarlates na Espinha do Dragão costumam ficar dentro de baús e algumas exigem resolver enigmas, então eu incluí instruções e os agrupei no arquivo de baús\n- Os Cristais Radiantes que faltam no arquivo completo de oculus são os ligados a baús (como parte de um enigma para ganhar o baú), por isso ficam no arquivo de baús e todos têm instruções para pegar facilmente."
+        }
+      }
     },
     {
       "q": "Tôi Đang Làm Giải Đố Trong File Quest Và Chest Nhưng Lỡ Làm Sai Thì Nên Làm Gì?",
