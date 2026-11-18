@@ -23,6 +23,11 @@
       "q": "Thứ Tự Chạy Các File Thế Nào?",
       "a": "Khi sử dụng file của tôi, mọi người nên chạy lần lượt thứ tự như sau: **File các điểm tele -> File quest -> File chest -> File thần đồng -> File Mora.**\n\n- Lí do nên chạy theo thứ tự này là vì file của tôi được thiết kế ra để mọi người có thể đạt được 100% khu vực và không sót rương nào.\n- Khi các bạn skip quest, sẽ có một số rương và điểm tele ẩn mà không thể nhặt nếu không làm quest, tương tự với thần đồng vì một số thần đồng yêu cầu phải làm quest / giải đố mới có thể nhặt.",
       "lang": "vi"
+    },
+    {
+      "q": "Tại Sao Một Số Thứ Như Mã Não Đỏ Thẫm Và Tịnh Quang Vũ Lại Thiếu Vậy?",
+      "a": "Đối với một số Mã Não Đỏ Thẫm và Tịnh Quang Vũ đã được hướng dẫn trong file chest rồi vì:\n\n- Mã não đỏ thẫm ở Long Tích Tuyết Sơn thường nằm trong rương và một số lại cần giải đố nên tôi đã hướng dẫn và gộp chung vào trong file rương\n- Tịnh Quang Vũ bị thiếu trong file full thần đồng là những cái liên quan đến rương (là một phần giải đố để nhận rương) chính vì vậy nó sẽ nằm ở trong file rương và đều đã được hướng dẫn để lấy một cách dễ dàng.",
+      "lang": "vi"
     }
   ],
   "updates": [
