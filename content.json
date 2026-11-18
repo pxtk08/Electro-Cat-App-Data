@@ -18,6 +18,11 @@
           "a": "Ambos os tipos de arquivo são essencialmente o mesmo conjunto de waypoints, mas um mantém todo o percurso em um único arquivo longo, enquanto o outro o divide em vários arquivos menores. Ambos os tipos contêm guias completos de quebra-cabeças, notas em cada waypoint e outros waypoints utilitários:\n\n- Arquivos Unsplit (geralmente compostos por apenas 1 arquivo de missão e 1 arquivo de baú) são os arquivos originais com numeração adicionada. A vantagem do arquivo Unsplit é que você não precisa fechar e abrir o programa várias vezes para excluir, trocar e colar arquivos na pasta Uni, garantindo uma jogabilidade contínua. No entanto, você deve considerar com cuidado o seu uso, pois o enorme volume de waypoints pode causar lag ou travamentos ao ser usado com o unicore (que já possui a tendência de fazer o sistema travar); esse é o ponto negativo.\n\n- Arquivos Split (geralmente divididos em categorias principais como Baús, Baús de Monstros, Desafios por Tempo, Seelie e Baús de Quebra-cabeça) são criados a partir do arquivo Unsplit dividido em partes menores. Este tipo de arquivo surgiu após muitos feedbacks de membros do servidor com PCs mais fracos que não conseguiam rodar o arquivo original, apesar de gostarem muito dos meus arquivos. A vantagem do fracionamento é a melhor otimização para todos os dispositivos. A desvantagem é que, durante a exploração do mapa, você precisará fechar o programa com mais frequência para excluir e colar arquivos; porém, o app já está disponível para resolver esse problema."
         }
       }
+    },
+    {
+      "q": "Thứ Tự Chạy Các File Thế Nào?",
+      "a": "Khi sử dụng file của tôi, mọi người nên chạy lần lượt thứ tự như sau: File các điểm tele -> File quest -> File chest -> File thần đồng -> File Mora.\n\n- Lí do nên chạy theo thứ tự này là vì file của tôi được thiết kế ra để mọi người có thể đạt được 100% khu vực và không sót rương nào.\n- Khi các bạn skip quest, sẽ có một số rương và điểm tele ẩn mà không thể nhặt nếu không làm quest, tương tự với thần đồng vì một số thần đồng yêu cầu phải làm quest / giải đố mới có thể nhặt.",
+      "lang": "vi"
     }
   ],
   "updates": [
