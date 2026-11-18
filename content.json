@@ -20,13 +20,13 @@
       }
     },
     {
-      "q": "Thứ Tự Chạy Các File Thế Nào?",
-      "a": "Khi sử dụng file của tôi, mọi người nên chạy lần lượt thứ tự như sau: **File các điểm tele -> File quest -> File chest -> File thần đồng -> File Mora.**\n\n- Lí do nên chạy theo thứ tự này là vì file của tôi được thiết kế ra để mọi người có thể đạt được 100% khu vực và không sót rương nào.\n- Khi các bạn skip quest, sẽ có một số rương và điểm tele ẩn mà không thể nhặt nếu không làm quest, tương tự với thần đồng vì một số thần đồng yêu cầu phải làm quest / giải đố mới có thể nhặt.",
+      "q": "Tại Sao Nên Sử Dụng App?",
+      "a": "**Một số tính năng hay ho mà app có thể làm:**\n\n- Quản lý file khoa học và tiện lợi. Đối với các file của tôi, ngay trong giao diện app thay vì bạn phải chọn và download từng file từ server discord thì bạn chỉ cần nhấn 1 nút và các file sẽ tự sắp xếp và hiển thị trực quan ngay trong app.\n\n- Đơn giản hóa quá trình sử dụng các file waypoint. Thay vì phải mở file explorer lên, tìm file waypoint bạn muốn sử dụng, copy nó, mở thư mục Uni, dán vào thư mục Uni thì khi bạn dùng app, chỉ cần chọn file bạn muốn dùng và click nút \"dùng\", file đã tự động được đè thẳng vào thư mục uni và bạn có thể bấm load file trong menu tool và tiếp tục chạy.\n\n- Ngoài quản lý file của tôi ra, các bạn có thể sử dụng mục \"File Không Chính Thức\" để tự thêm và tự phân loại các file bên ngoài vào để sử dụng. App sẽ tự giải nén và đặt tên để bạn dễ dàng dùng, việc của bạn là phân loại vào đúng chỗ, và đôi khi là đổi tên.\n\n- Tính tùy biến giao diện cao; bạn có thể đổi hình nền, đổi font chữ, chọn màu, thay đổi giao diện và nhiều thứ khác.",
       "lang": "vi"
     },
     {
-      "q": "Tại Sao Nên Sử Dụng App?",
-      "a": "**Một số tính năng hay ho mà app có thể làm:**\n\n- Quản lý file khoa học và tiện lợi. Đối với các file của tôi, ngay trong giao diện app thay vì bạn phải chọn và download từng file từ server discord thì bạn chỉ cần nhấn 1 nút và các file sẽ tự sắp xếp và hiển thị trực quan ngay trong app.\n\n- Đơn giản hóa quá trình sử dụng các file waypoint. Thay vì phải mở file explorer lên, tìm file waypoint bạn muốn sử dụng, copy nó, mở thư mục Uni, dán vào thư mục Uni thì khi bạn dùng app, chỉ cần chọn file bạn muốn dùng và click nút \"dùng\", file đã tự động được đè thẳng vào thư mục uni và bạn có thể bấm load file trong menu tool và tiếp tục chạy.\n\n- Ngoài quản lý file của tôi ra, các bạn có thể sử dụng mục \"File Không Chính Thức\" để tự thêm và tự phân loại các file bên ngoài vào để sử dụng. App sẽ tự giải nén và đặt tên để bạn dễ dàng dùng, việc của bạn là phân loại vào đúng chỗ, và đôi khi là đổi tên.\n\n- Tính tùy biến giao diện cao; bạn có thể đổi hình nền, đổi font chữ, chọn màu, thay đổi giao diện và nhiều thứ khác.",
+      "q": "Thứ Tự Chạy Các File Thế Nào?",
+      "a": "Khi sử dụng file của tôi, mọi người nên chạy lần lượt thứ tự như sau: **File các điểm tele -> File quest -> File chest -> File thần đồng -> File Mora.**\n\n- Lí do nên chạy theo thứ tự này là vì file của tôi được thiết kế ra để mọi người có thể đạt được 100% khu vực và không sót rương nào.\n- Khi các bạn skip quest, sẽ có một số rương và điểm tele ẩn mà không thể nhặt nếu không làm quest, tương tự với thần đồng vì một số thần đồng yêu cầu phải làm quest / giải đố mới có thể nhặt.",
       "lang": "vi"
     },
     {
