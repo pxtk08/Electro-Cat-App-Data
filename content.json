@@ -41,7 +41,21 @@
     {
       "q": "Thứ Tự Chạy Các File Thế Nào?",
       "a": "**Khi sử dụng file của tôi, mọi người nên chạy lần lượt thứ tự như sau: File các điểm tele -> File quest -> File chest -> File thần đồng -> File Mora.**\n\n- Lí do nên chạy theo thứ tự này là vì file của tôi được thiết kế ra để mọi người có thể đạt được 100% khu vực và không sót rương nào.\n- Khi các bạn skip quest, sẽ có một số rương và điểm tele ẩn mà không thể nhặt nếu không làm quest, tương tự với thần đồng vì một số thần đồng yêu cầu phải làm quest / giải đố mới có thể nhặt.",
-      "lang": "vi"
+      "lang": "vi",
+      "i18n": {
+        "en": {
+          "q": "What Is the Order to Run the Files?",
+          "a": "**When using my files, everyone should run them in the following order: Teleport point files -> Quest files -> Chest files -> Oculus files -> Mora files.**\n\n- The reason to run them in this order is because my files are designed so everyone can reach 100% area exploration and not miss any chests.\n- When you skip quests, there will be some hidden chests and teleport waypoints that cannot be collected without doing the quests, similarly with oculus because some oculus require doing quests or solving puzzles before they can be collected."
+        },
+        "ru": {
+          "q": "В каком порядке запускать файлы?",
+          "a": "**При использовании моих файлов всем стоит запускать их в следующем порядке: файлы точек телепортации -> файлы заданий -> файлы сундуков -> файлы окулусов -> файлы моры.**\n\n- Причина, по которой стоит запускать их в таком порядке, в том, что мои файлы созданы так, чтобы каждый мог достичь 100% исследования региона и не пропустить ни одного сундука.\n- Когда вы пропускаете задания, остаются скрытые сундуки и точки телепортации, которые невозможно собрать без выполнения заданий; то же самое касается окулусов, поскольку для получения некоторых окулусов нужно сначала выполнить задания или решить головоломки."
+        },
+        "pt": {
+          "q": "Qual é a ordem para executar os arquivos?",
+          "a": "**Ao usar meus arquivos, todos devem executá-los na seguinte ordem: Arquivos de pontos de teleporte -> Arquivos de missões -> Arquivos de baús -> Arquivos de oculus -> Arquivos de Mora.**\n\n- O motivo para executar nessa ordem é que meus arquivos foram feitos para que todos possam alcançar 100% da área e não deixem nenhum baú para trás.\n- Quando você pula missões, haverá alguns baús e pontos de teleporte ocultos que não podem ser pegos sem fazer a missão, o mesmo vale para os oculus, pois alguns oculus exigem fazer missões ou resolver enigmas antes de poderem ser pegos."
+        }
+      }
     },
     {
       "q": "Tại Sao Một Số Thứ Như Mã Não Đỏ Thẫm Và Tịnh Quang Vũ Lại Thiếu Vậy?",
