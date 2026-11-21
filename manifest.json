@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-18T16:13:06.017Z",
+  "version": "2026-11-21T17:19:56.840Z",
   "files": [
     {
       "path": "Data/All In One Snezhnaya - English.zip",
@@ -396,6 +396,30 @@
       "size": 22181,
       "sha256": "65299e93eeab3d3479a33131e35247e6d4c930a18526433c5d07555dcb2f9080",
       "updated": "2026-11-18T16:13:06.017Z"
+    },
+    {
+      "path": "Data/Full Natlan Unsplit Ver. - English.zip",
+      "size": 58559,
+      "sha256": "9cc018298bdcff8bdf62b8810dd65ff790f5b02f508c5a00d537eab7191caacc",
+      "updated": "2026-11-21T17:19:56.840Z"
+    },
+    {
+      "path": "Data/Full Natlan Unsplit Ver. - Portuguese.zip",
+      "size": 59254,
+      "sha256": "4c8b625b16e4fe6b36407d419a3766822c81dabe31815b6bcbd1b364769c2f97",
+      "updated": "2026-11-21T17:19:56.840Z"
+    },
+    {
+      "path": "Data/Full Natlan Unsplit Ver. - Russian.zip",
+      "size": 61342,
+      "sha256": "224a92dc40ac83b06278ad9c741b99e007236d9e66bd88d4f0bfecec5823c5d3",
+      "updated": "2026-11-21T17:19:56.840Z"
+    },
+    {
+      "path": "Data/Full Natlan Unsplit Ver. - Vietnamese.zip",
+      "size": 58417,
+      "sha256": "73d6944cf46d988bf3a72050b24d51ae537ed076713ca5874860023a772369fb",
+      "updated": "2026-11-21T17:19:56.840Z"
     },
     {
       "path": "Data/Full Sumeru - English.zip",
