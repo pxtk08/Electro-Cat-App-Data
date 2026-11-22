@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-21T17:19:56.840Z",
+  "version": "2026-11-22T13:22:51.720Z",
   "files": [
     {
       "path": "Data/All In One Snezhnaya - English.zip",
@@ -398,28 +398,52 @@
       "updated": "2026-11-18T16:13:06.017Z"
     },
     {
+      "path": "Data/Full Natlan Split Ver. - English.zip",
+      "size": 74557,
+      "sha256": "8490ceb12075beff279bb4e66649eccd87b19233ce82c1f4e2f4add7df8b46a7",
+      "updated": "2026-11-22T13:22:51.720Z"
+    },
+    {
+      "path": "Data/Full Natlan Split Ver. - Portuguese.zip",
+      "size": 75489,
+      "sha256": "5a30e0ca6045aacd221cb66dda2e108651a4867fce377de022775729475a7389",
+      "updated": "2026-11-22T13:22:51.720Z"
+    },
+    {
+      "path": "Data/Full Natlan Split Ver. - Russian.zip",
+      "size": 77956,
+      "sha256": "a1b3696308a0c6590d4f7b1baa6dbb3bb2037d9c9f76517a141626f47b4e2842",
+      "updated": "2026-11-22T13:22:51.720Z"
+    },
+    {
+      "path": "Data/Full Natlan Split Ver. - Vietnamese.zip",
+      "size": 74342,
+      "sha256": "2545df5a631bb68f2cbfb18adea92446cfc8a72cac7f9e9e9d8e6e12243680dc",
+      "updated": "2026-11-22T13:22:51.720Z"
+    },
+    {
       "path": "Data/Full Natlan Unsplit Ver. - English.zip",
-      "size": 58559,
-      "sha256": "9cc018298bdcff8bdf62b8810dd65ff790f5b02f508c5a00d537eab7191caacc",
-      "updated": "2026-11-21T17:19:56.840Z"
+      "size": 71402,
+      "sha256": "100019973e98feb03a54bdf20e07c7a7ddf1b001b467d330f7ec9eef9f818d61",
+      "updated": "2026-11-22T13:22:51.720Z"
     },
     {
       "path": "Data/Full Natlan Unsplit Ver. - Portuguese.zip",
-      "size": 59254,
-      "sha256": "4c8b625b16e4fe6b36407d419a3766822c81dabe31815b6bcbd1b364769c2f97",
-      "updated": "2026-11-21T17:19:56.840Z"
+      "size": 72232,
+      "sha256": "134452907a30d7e50944564087b67027e8050ee9a75775ddd02e610b7f9cd504",
+      "updated": "2026-11-22T13:22:51.720Z"
     },
     {
       "path": "Data/Full Natlan Unsplit Ver. - Russian.zip",
-      "size": 61342,
-      "sha256": "224a92dc40ac83b06278ad9c741b99e007236d9e66bd88d4f0bfecec5823c5d3",
-      "updated": "2026-11-21T17:19:56.840Z"
+      "size": 74722,
+      "sha256": "0d6c3fa9a8e4109273d74855b3c932fdd37deff0c8ae706b64a4acda98c4cded",
+      "updated": "2026-11-22T13:22:51.720Z"
     },
     {
       "path": "Data/Full Natlan Unsplit Ver. - Vietnamese.zip",
-      "size": 58417,
-      "sha256": "73d6944cf46d988bf3a72050b24d51ae537ed076713ca5874860023a772369fb",
-      "updated": "2026-11-21T17:19:56.840Z"
+      "size": 71025,
+      "sha256": "3f675a4ad9e9372ce37f8c91f650c8c4b29555f49db7fb841fb49df525f84cf8",
+      "updated": "2026-11-22T13:22:51.720Z"
     },
     {
       "path": "Data/Full Sumeru - English.zip",
