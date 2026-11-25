@@ -50,30 +50,6 @@
       "updated": "2026-11-18T16:13:06.017Z"
     },
     {
-      "path": "Data/Full Dragonspine - English.zip",
-      "size": 16629,
-      "sha256": "6d284e6289fa6aed78d5b196bc446dd369b4be10b94e433a5e105ef8b0b150c6",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Dragonspine - Portuguese.zip",
-      "size": 16824,
-      "sha256": "8863fb1adf68e2f828f0bb2ee02f26532b56b98ef490c168cea154ad5fb2d2d6",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Dragonspine - Russian.zip",
-      "size": 17338,
-      "sha256": "f87f7928ddc95a07f9869d85060d67872db315ada06f3e570ba793968d83a2da",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Dragonspine - Vietnamese.zip",
-      "size": 16539,
-      "sha256": "e2e2e0d67d80c254ce1085b1654515b45d002d8c3e333cf7dc373fddc3c7f462",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
       "path": "Data/Full Dragonspine Split Ver. - English.zip",
       "size": 18413,
       "sha256": "a21dbddb24994b5ddb07b50e62bf002464730bd25cafb8fa8145928035287815",
@@ -120,24 +96,6 @@
       "size": 16505,
       "sha256": "c61aa45064262d4f020b77ce7a819a6add8c7fea07ce3a773ddce609db58d579",
       "updated": "2026-11-25T06:50:43.945Z"
-    },
-    {
-      "path": "Data/Full Fontaine - English.zip",
-      "size": 78876,
-      "sha256": "836e63bc2802a24aaffc680e1fa31817dcc3e1b1eec37813b696483ae6ad9abe",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Fontaine - Russian.zip",
-      "size": 81276,
-      "sha256": "b537acadc4b8b993aae80cb56002affb261a380add19c920ea31cf7ab9b00f91",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Fontaine - Vietnamese.zip",
-      "size": 78609,
-      "sha256": "9c5e337b1ee94892164e344ac95d7493bd4d680bb3a5ffefc6c883c25be7d5a8",
-      "updated": "2026-11-18T16:13:06.017Z"
     },
     {
       "path": "Data/Full Fontaine Split Ver. - English.zip",
@@ -188,30 +146,6 @@
       "updated": "2026-11-25T06:50:43.945Z"
     },
     {
-      "path": "Data/Full Inazuma - English.zip",
-      "size": 70135,
-      "sha256": "1e05158a02d844b4518b61401c14f830371f14d0f7629458dcaa00c5564645aa",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Inazuma - Portuguese.zip",
-      "size": 71101,
-      "sha256": "069d51c7c947185f390a4d9381444c9e763fc3144e86dbde7258900fc2f66345",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Inazuma - Russian.zip",
-      "size": 72549,
-      "sha256": "6fe9567bc166a0d0dd31011d8ac2c1a98197ed929008cfdc0f672ead0b05d871",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Inazuma - Vietnamese.zip",
-      "size": 69465,
-      "sha256": "ddf37a0d83a0381d013c64dd72c7c0433050b290b8c3074ba64cc312448a6498",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
       "path": "Data/Full Inazuma Split Ver. - English.zip",
       "size": 74386,
       "sha256": "c601e1c4ae5dc970b7d5c7ca9ae1c1a87209af2c1a37a0208268aa82356fbe28",
@@ -260,30 +194,6 @@
       "updated": "2026-11-25T06:50:43.945Z"
     },
     {
-      "path": "Data/Full Liyue - English.zip",
-      "size": 51674,
-      "sha256": "f7b8999b5e092c64ca917ea783afdc997b8aa2e2ac81a98a552cd17bafba6ec1",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Liyue - Portuguese.zip",
-      "size": 51899,
-      "sha256": "c6bd4d76ac1cf74e0d0dcdc4996e3c3f648c93e269c959ed10f1a162b4405c02",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Liyue - Russian.zip",
-      "size": 53519,
-      "sha256": "1501f120318f1556d8e3ccfeb3afb648c6ee4ec227aecd6501a280b46bc62b9f",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Liyue - Vietnamese.zip",
-      "size": 51349,
-      "sha256": "91d560e9fd4c3ecf77d24aa5c109e2fd29e3114f9cb906fdb0a1a07e8934db6e",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
       "path": "Data/Full Liyue Split Ver. - English.zip",
       "size": 56715,
       "sha256": "19f565d886939406cedabacdf849c0cf748992da9e20c5eb3d896bcef04e78bf",
@@ -330,30 +240,6 @@
       "size": 54080,
       "sha256": "dfbf3c62f10be7e1b5dd1e3cbfa56c1108a7636b72b19497574a0e6b7a6f8234",
       "updated": "2026-11-25T06:50:43.945Z"
-    },
-    {
-      "path": "Data/Full Mondstadt -  English.zip",
-      "size": 20377,
-      "sha256": "25ee38cc78f66ee9c36d839e275498e80c36b89a6fdf73aa8c3d3031ff605a92",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Mondstadt -  Portuguese.zip",
-      "size": 20564,
-      "sha256": "3ce690ec7a439f1f8e00e94dd2b99fa86afb2dbe4cc040d772dba25473fddebb",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Mondstadt - Russian.zip",
-      "size": 20975,
-      "sha256": "8f9275c21c8e4eef397b9713cda25414055e9b051c75d6e4e5b0697b83f1a423",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Mondstadt - Vietnamese.zip",
-      "size": 20323,
-      "sha256": "b085840a28ae6c5cea86567ffcb2f3a484fdbe589e6f3f7260f86cc4c33581c5",
-      "updated": "2026-11-18T16:13:06.017Z"
     },
     {
       "path": "Data/Full Mondstadt Split Ver. - English.zip",
@@ -450,30 +336,6 @@
       "size": 68634,
       "sha256": "9461043c167c2cb606e5b98d936ff79b6aad00d98dafdecefba0b5cfc1f03f99",
       "updated": "2026-11-25T06:50:43.945Z"
-    },
-    {
-      "path": "Data/Full Sumeru - English.zip",
-      "size": 155948,
-      "sha256": "85515370a75dea49ab71c8d11719d9c1785cf2e6554ad6b2628366e7e3cd1880",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Sumeru - Portuguese.zip",
-      "size": 157266,
-      "sha256": "1a75d6a1d3a72fe4889b61252bbc4281137386ee6a4ca939afa6fd6ff94aa2dc",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Sumeru - Russian.zip",
-      "size": 160694,
-      "sha256": "a00ee1389ce549cb5205b734df57cb81e398d8f29e984d9115d34360682b71ca",
-      "updated": "2026-11-18T16:13:06.017Z"
-    },
-    {
-      "path": "Data/Full Sumeru - Vietnamese.zip",
-      "size": 155355,
-      "sha256": "449472952202963c9aaa33dbf2d22caf272633a4b773865cf17f112ff5cc9002",
-      "updated": "2026-11-18T16:13:06.017Z"
     },
     {
       "path": "Data/Full Sumeru Split Ver. - English.zip",
