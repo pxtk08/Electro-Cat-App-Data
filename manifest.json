@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-25T06:50:43.945Z",
+  "version": "2026-11-25T16:12:07.422Z",
   "files": [
     {
       "path": "Data/All In One Snezhnaya - English.zip",
@@ -42,12 +42,6 @@
       "size": 19440,
       "sha256": "7281ea4f03f57d82973241d94aeb0eecb3073d89a5bf72efb7d6ca0cdd2dd4af",
       "updated": "2026-11-24T05:55:42.327Z"
-    },
-    {
-      "path": "Data/All in One Snezhnaya - Portuguese.zip",
-      "size": 42956,
-      "sha256": "fe9c2063b6930bb4beda2c09f095b57cc2a5076b401b7640f1a757f55a2986d5",
-      "updated": "2026-11-18T16:13:06.017Z"
     },
     {
       "path": "Data/Full Dragonspine Split Ver. - English.zip",
