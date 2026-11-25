@@ -1,5 +1,5 @@
 {
-  "version": "2026-11-25T16:12:07.422Z",
+  "version": "2026-11-25T16:33:03.380Z",
   "files": [
     {
       "path": "Data/All In One Snezhnaya - English.zip",
@@ -402,6 +402,72 @@
       "size": 24710,
       "sha256": "6005fb8697f14c7600f3950c32fa7b51254e2df244814f6429ac2ef1d7610bef",
       "updated": "2026-11-25T06:50:43.945Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Băng Thần Đồng Snezhnaya.zip",
+      "size": 6926,
+      "sha256": "4bbddf882516d90436a48e5b77f05249bff0cd4a8b3d075b426bd75e7888d660",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Hỏa Thần Đồng Natlan.zip",
+      "size": 7820,
+      "sha256": "f0b53f9e0dc8afe79e9fd90d9bacb8a5c7b9af5e9202b2411e72b7651b3abb59",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Hỏa Thần Đồng Núi Thánh Viễn Cổ.zip",
+      "size": 1078,
+      "sha256": "3ad75446655e75538d868d16e81c2805ca3dbc90c3f07473f2f1dc6611106601",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Lôi Thần Đồng Inazuma.zip",
+      "size": 5842,
+      "sha256": "60354457a912474e252242c99be589621e405cba93c8b385ae83360b00cecfac",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Mã Não Đỏ Thẫm Long Tích Tuyết Sơn.zip",
+      "size": 2423,
+      "sha256": "50fb6051b384b85f7a95c0a021a21eaa0656f3a20c6f25c5e7201c8070323bfc",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Nham Thần Đồng Liyue.zip",
+      "size": 4711,
+      "sha256": "854f4073cbcc3ace982a2700d8c165a2b94778ea39e21eddcaba32c577a7196c",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Phong Thần Đồng Mondstadt.zip",
+      "size": 2559,
+      "sha256": "36ae772e7dd99676a06a583e211efb5a2ab08492f47dd6cfbe56a3cfb6cc3aca",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Thảo Thần Đồng Sumeru.zip",
+      "size": 8499,
+      "sha256": "35a9a651f6b0a440ad0df77dccca7ba480d3928b5289915cebbf19d51b7422a0",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Thủy Thần Đồng Biển Kỷ Nguyên Cũ.zip",
+      "size": 1641,
+      "sha256": "d1f0bf307ebff76816d7a6b14ae461df2a9c6033c62186df2f595eb47bccfbeb",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Thủy Thần Đồng Fontaine.zip",
+      "size": 6868,
+      "sha256": "dc2d16cc8054d54e6a2070fbfc21a6383d69798b66d04458a54dd1e3012e1d77",
+      "updated": "2026-11-25T16:33:03.380Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Tịnh Quang Vũ Sumeru.zip",
+      "size": 1051,
+      "sha256": "785c21999dd91a0eb39170ee1df024a6cc715d08b881bfb8d4fb4948dc0a1fce",
+      "updated": "2026-11-25T16:33:03.380Z"
     }
   ]
 }
