@@ -1,4 +1,4 @@
-Bước 1: Bạn cần tải file mà bạn cần về. Bạn có thể tìm thấy trong ⁠[📦 · Kho File](#/files) & ⁠[🤝 · Kho File Cộng Đồng](#/community), hoặc bạn có thể tải từ các nguồn khác. Tùy bạn.
+Bước 1: Bạn cần tải file mà bạn cần về. Bạn có thể tìm thấy trong ⁠[📦 · Kho File](#/files) hoặc bạn có thể tải từ các nguồn khác. Tùy bạn.
 ![mô tả ảnh](img/huong-dan-1-mwbrm053.png)
 Bước 2: Bạn cần giải nén file ra, vì các file gửi thường ở dạng ZIP. Chuột phải vào file và chọn 'Extract All' (Giải nén tất cả), một cửa sổ sẽ xuất hiện.
 ![mô tả ảnh](img/image-mwbrwzm5.png)
