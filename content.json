@@ -169,7 +169,8 @@
       "date": "2026-11-11",
       "order": 0,
       "draft": false,
-      "grp": "huong-dan-su-dung-file-teleport"
+      "grp": "huong-dan-su-dung-file-teleport",
+      "rev": 1795850640698
     },
     {
       "slug": "huong-dan-su-dung-file-teleport-pt",
