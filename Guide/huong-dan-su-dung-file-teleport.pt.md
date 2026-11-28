@@ -1,4 +1,4 @@
-Passo 1: Você precisa baixar o arquivo necessário. Você pode encontrá-lo em ⁠[📦 · Arquivos](#/files) e ⁠[🤝 · Arquivos da Comunidade](#/community), ou baixá-lo de outras fontes. Fica a seu critério.
+Passo 1: Você precisa baixar o arquivo necessário. Você pode encontrá-lo em ⁠[📦 · Arquivos](#/files) ou baixá-lo de outras fontes. Fica a seu critério.
 ![descrição da imagem](img/huong-dan-1-mwbrm053.png)
 Passo 2: Você precisa extrair o arquivo, pois os arquivos enviados geralmente estão no formato ZIP. Clique com o botão direito no arquivo e clique em 'Extrair tudo'; uma janela aparecerá.
 ![descrição da imagem](img/image-mwbrwzm5.png)
