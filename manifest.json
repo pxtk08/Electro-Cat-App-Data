@@ -1,4 +1,2423 @@
 {
-  "version": "2026-11-28T14:03:34.799Z",
-  "files": []
+  "version": "2026-11-28T14:15:18.258Z",
+  "files": [
+    {
+      "path": "Data/All Mora Box For All Regions.zip",
+      "size": 57223,
+      "sha256": "805404c090454b8cffc0692fa01e2d8bbcb7b75ab5022ca5fb7e88c43887c661",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/All Oculus For All Regions.zip",
+      "size": 40090,
+      "sha256": "759139c2477efd305b1c4bf1831321618f07ce9b3c4105a84d5d4ba4c4344e47",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/All Teleport Waypoints For All Regions.zip",
+      "size": 19619,
+      "sha256": "31d6ca41b1848a72b5a1b573625c95e71d39827c196938d8a18d5ec7ad8a6963",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Anemoculus de Mondstadt (Completo).zip",
+      "size": 3136,
+      "sha256": "05a5e9c104d28bd997c850594bd8d90cee9797b6f8316179388315f805fde172",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Fontaine (Completo).zip",
+      "size": 12123,
+      "sha256": "62f62a34b933ad418ec1d864babc6e25e51fa3d077c986f850eb3bed896e5dcf",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Inazuma (Completo).zip",
+      "size": 5062,
+      "sha256": "2ab5c10f3c5a1cc9a450a8540934abc96f7e8955748584eeda2e1ae15a01d681",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Liyue (Completo).zip",
+      "size": 7392,
+      "sha256": "cfc54fcc2eaeee1aae9d8417709990a2a0150aa00bee5515fcb201267034dd3d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Natlan (Completo).zip",
+      "size": 12402,
+      "sha256": "b76256218eab1c4acc4bcd3bec11aa861b1113d891490fae6f19e23d5b0d2712",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Nod-Krai (Completo).zip",
+      "size": 6744,
+      "sha256": "2ed2648a62829bf00e8fb3d460f4a5d5ec668261de3812206efc92df1c0c1911",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Pico do Repouso do Vento (Completo).zip",
+      "size": 2641,
+      "sha256": "e49663a08df84793c6783869f528bbcccc59c9ecfe6b97b5f52c083820ea43d4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Snezhnaya (Completo).zip",
+      "size": 6825,
+      "sha256": "65dedce2d609e937036959d744a0542ac9aad360df2389671ebfffb70dd5e54c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora de Sumeru (Completo).zip",
+      "size": 17501,
+      "sha256": "414da5998d6d27977cb29faf0cf36340ad5b649519e54108122d752c30c879a2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Baús de Mora do Despenhadeiro (Completo).zip",
+      "size": 2791,
+      "sha256": "012b37905cbaf7e76e2c37b65fb8baa2d1e5abb07e1e7f8d7410cdda3e6d72df",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Calcedônia Carmesim da Espinha do Dragão (Completo).zip",
+      "size": 3049,
+      "sha256": "40fcda65d664763a30069071e8e1c3964ad865b79639a98709645d9485eb0b3e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Cryoculus de Snezhnaya (Completo).zip",
+      "size": 7376,
+      "sha256": "e91368c38ae80f07ea7f91cade4c35de0666bcb4d1f3a90fef4cace506ac11d2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Dendroculus de Sumeru (Completo).zip",
+      "size": 8886,
+      "sha256": "7c9a0c80e9d84308268742124d348ab9fce1d8c1a89659bb56a8401d2645ccef",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Electroculus de Inazuma (Completo).zip",
+      "size": 6289,
+      "sha256": "e635ee209a8154168777ab3e2e700b85e39582b81bd7f96f900e8f29f52faabb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Espinha do Dragão Completo - Versão Combinada.zip",
+      "size": 16955,
+      "sha256": "63cec553b22ec9253e085480921f465ad8c31e583cf3978ac900016e84259d3c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Espinha do Dragão Completo - Versão Separada.zip",
+      "size": 20040,
+      "sha256": "ebbbc06a304d0b0f2e336ecedc9d92e9749dabc4a962736aa479c20927766362",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Fontaine Completo - Versão Combinada.zip",
+      "size": 77817,
+      "sha256": "f0993f4003bdc299d4738158b64d284c86da189f8f5edf59c86b59f73ce3585c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Fontaine Completo - Versão Separada.zip",
+      "size": 81884,
+      "sha256": "4c17bf31e82a748096d40aa9e250aed0f6d392c2091c820cf66296e249056389",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Ancient Sacred Mountain Unsplit Ver.zip",
+      "size": 5982,
+      "sha256": "4c17db6935833b65ecf546dd9882afeebf441f0420b4345a0fa999236891f5e6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Anemoculus of Mondstadt.zip",
+      "size": 3065,
+      "sha256": "7aa8b573b2ecc8a0ffd82bb5331bdd276cdcda62117a15d47cc6ac024171304a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Crimson Agate of Dragonspine.zip",
+      "size": 2892,
+      "sha256": "1eb248dc925dc10ca38d681907ab9069c184b8b8b6e9912f2fa52459c79579b7",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Cryoculus of Snezhnaya.zip",
+      "size": 7288,
+      "sha256": "18ddc84d76f5ae7f31f7c5cc2bb28f816d382a8a99149fe677d7eb9077d03173",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Dendroculus of Sumeru.zip",
+      "size": 8789,
+      "sha256": "a2662e1eec64d83f98d1f145fbe8ca0aab0ce2636623adb537ca25a8b4321b1e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Dragonspine Split Ver.zip",
+      "size": 19189,
+      "sha256": "7ca2d14cffc3fe38452e6f05b1ce61ec76a8d1c20a3a391c5890ac19f258ba74",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Dragonspine Unsplit Ver.zip",
+      "size": 16531,
+      "sha256": "d35410d3428985c8e9bd9392c1419a7f1e98799bafc654fedc9777272ece73f6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Electroculus of Inazuma.zip",
+      "size": 6204,
+      "sha256": "eb5ee99189c18095337c76979c45ea876b7d0f1bdd651e6c535b672b2b97c8ba",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Fontaine Split Ver.zip",
+      "size": 80561,
+      "sha256": "68d3d835a976745917335bc89b88f455a89e68814dc6452db7b4019bde389e1a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Fontaine Unsplit Ver.zip",
+      "size": 76796,
+      "sha256": "568393d99e6187f71c6926cd08e635ece7200d784d1b2683df74813edfb92fe2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Geoculus of Liyue.zip",
+      "size": 5085,
+      "sha256": "c47d6a4015c24d27a271d6325fe8b72946fb691f41c6ed744191319e1d8279a4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Hydroculus of Fontaine.zip",
+      "size": 7215,
+      "sha256": "2e42f4e3ba44cab0f4d0bc4fda53a9d21390258ff29f991fb512e219dd7e1742",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Hydroculus of the Sea Of Bygone Eras.zip",
+      "size": 2928,
+      "sha256": "6dc6fc953f14382bfd1849a5e91eef7ab024d72bffc7baa3b4e1280beb262316",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Inazuma Split Ver.zip",
+      "size": 75583,
+      "sha256": "c34d85a18e4007a54e8cf203ca9412067ebc84537c8bf72ed790e77a44658c85",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Inazuma Unsplit Ver.zip",
+      "size": 72308,
+      "sha256": "e97848074d91d2f7c0e2cc13193b93523b3607bdfdbeefc8bd966dee054320a8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Liyue Split Ver.zip",
+      "size": 57400,
+      "sha256": "4556afd444f4c22204da4ea0a199fd633120b4283aa29308f8a5b2f0a43b9a52",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Liyue Unsplit Ver.zip",
+      "size": 54503,
+      "sha256": "082cc74504bf148bc460f0a098b35a17311a8e93c4b53f3742d8d52ce637848f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mondstadt Split Ver.zip",
+      "size": 23712,
+      "sha256": "feb6ae0a1c5c3a0a3900bc92b29173e35e07d3cca3b5f18422798e88242d0679",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mondstadt Unsplit Ver.zip",
+      "size": 21266,
+      "sha256": "696dbdbbb65a4d01b10d6c534ae72a7750df6fb4e4fcf3354029249ef20de20b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Fontaine.zip",
+      "size": 12361,
+      "sha256": "e4655ee1431898e907202f90895c1fd4c3fa6504cfa0fa61e2df1bc86d960ceb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Inazuma.zip",
+      "size": 4933,
+      "sha256": "063bbb48ddfd4459bd0cce0c18c8d9e23016d901e87d21c2e244f3d099ebaf09",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Liyue.zip",
+      "size": 7212,
+      "sha256": "fd59ff8e20285019e721482854458392cbb970d64f7fb69c8f9933c77e57ebfe",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Natlan.zip",
+      "size": 12157,
+      "sha256": "c6688457cf9cab54785a6238ad5feb1ca7f8f7ab8b3de8be251b7a86663545b5",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Nod-Krai.zip",
+      "size": 6557,
+      "sha256": "0ec91ee7cdeabf030cdd798fad9c41f8777818bab8976feabadb317f7cce35d4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Snezhnaya.zip",
+      "size": 6652,
+      "sha256": "c4b3d6f8cbd2d712dd9d5618600fd95d6be144c046f4c57010fb572a746025e1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Sumeru.zip",
+      "size": 17226,
+      "sha256": "c4ee0e54bb1663d8411a4d782766064d2e636a446bba8141f6fea935558c663d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of The Chasm.zip",
+      "size": 2626,
+      "sha256": "bac4e7b30df4e1f97dad1e7d01741abb87033a0a134de49e5ebdaa7702013db7",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Mora Chests of Windrest Peak.zip",
+      "size": 2440,
+      "sha256": "1a67dfb54eb1cb04fa23d207134dc7a99956d75cbd11c646482558a019e8baa5",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Natlan Split Ver.zip",
+      "size": 67926,
+      "sha256": "97ce82bf5c08a6f27a139337b4748c360311a0380206990f4e4eb097539a2277",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Natlan Unsplit Ver.zip",
+      "size": 65464,
+      "sha256": "8d23ff23dace963e64748cc94da745d7c71c411293e4469188369a2e5492c699",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Nod-Krai Unsplit Ver.zip",
+      "size": 14864,
+      "sha256": "4ed77999f42284330091738669f1848db6dbe96c9290a505be64a3d75b9b714d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Plume of Purifying Light of Sumeru.zip",
+      "size": 2492,
+      "sha256": "c461e9ae5f9763c626e1ac3c71fefbe542bd73980eb2338648937839a6c8a67a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Pyroculus of Natlan.zip",
+      "size": 8122,
+      "sha256": "c19a9c22dcaff6d774fdab65e8e027dcef214fbfff31db38b3a31d1ffd986a99",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Pyroculus of the Ancient Sacred Mountain.zip",
+      "size": 2441,
+      "sha256": "0990edd3b1db7baab1e282de21ef30d0dbc4ab8b86ab13d31b33fa95d36f648b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Sea Of Bygone Eras Unsplit Ver.zip",
+      "size": 6710,
+      "sha256": "e850c5b399cc11862a91f405e03c7aaa91c683c3f995b4dcf1813aeeeae05415",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Shadow Wingdrops of Snezhnaya.zip",
+      "size": 5635,
+      "sha256": "e8c534eb309ac4398d45add05364cd8ab9a7fde57f33372ca2a7a4adb8613f26",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Snezhnaya Split Ver.zip",
+      "size": 53650,
+      "sha256": "2c89a30a60de7d824e67bd1d1979f0a6fb0af7dc7f4c4dd1921678c6e3f3ad0f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Snezhnaya Unsplit Ver.zip",
+      "size": 51040,
+      "sha256": "290ed9b28dde55f130be9dea6161f1a288b2979e01b7ea8a3869face7720c0e8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Sumeru Split Ver.zip",
+      "size": 168837,
+      "sha256": "3f2385be3727f0b0cfbf353925c0c73a35d8983b964a52d0fee380805d3c0529",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Sumeru Unsplit Ver.zip",
+      "size": 161380,
+      "sha256": "bd491435070ee2674443d38d68f0ae2f2411d972db064ee3a04e78e61de5bfe1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Dragonspine.zip",
+      "size": 2141,
+      "sha256": "837b9e072bbdaa4052e6c5df5b01225ffe02b5a47ca8396b7ac1401a01834e56",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Fontaine.zip",
+      "size": 4211,
+      "sha256": "2cd75be2e10b04e204a86bcf7b8cc97a3aeabd721afd4a0894ed21e0dac9dba6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Inazuma.zip",
+      "size": 3338,
+      "sha256": "46336438f52ec4283e605ee49693e3dbd7df3b09ade488a21eb178686fdabd4d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Liyue.zip",
+      "size": 3317,
+      "sha256": "513cda34e0b564b98d05382149c35607af62cec2c167cd797463fff2c1349102",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Mondstadt.zip",
+      "size": 2633,
+      "sha256": "cd22b441817293148081abba6043adfdfbcfbb7989540502276de35ee7d3dcba",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Natlan.zip",
+      "size": 5168,
+      "sha256": "e7d8c03505f127c3fdff969100c35b9d8c5ff6c190c67e9f44365885f717906b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Nod-Krai.zip",
+      "size": 3859,
+      "sha256": "e7eccc156b3cb00d39748323ae339f314822fab48b9b596424bcbd4fbd143c41",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Snezhnaya.zip",
+      "size": 4292,
+      "sha256": "5e047855cc0c4746cad63cb31c3239a7f92002a2486d7a049d39b06c2cf5afee",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of Sumeru.zip",
+      "size": 4740,
+      "sha256": "f0464ea7e480f71bba655a78fdc08a959297b2e333a915341399078dee4e79db",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Full Teleport Waypoints of The Chasm.zip",
+      "size": 1976,
+      "sha256": "f59c8e3b76ea0e50a4a523ad75db12674381c5af7ba856594338f0795596871b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Geoculus de Liyue (Completo).zip",
+      "size": 5160,
+      "sha256": "b279b9a12db1a9a20f93c9853de91c655141c4676c12038b40b630491aeb589d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Gota de Asas Sombrias de Snezhnaya (Completo).zip",
+      "size": 5729,
+      "sha256": "fbf17534c2ea3804cb0812ef324e6bc61b362fcb86a7d66a70c0463b50b1641b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Hydroculus de Fontaine (Completo).zip",
+      "size": 7287,
+      "sha256": "30ca13e704da1134fdd7e0907c0b7c4fa7435cfdc0145b5b25352f4f930639f4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Hydroculus do Mar Antigo (Completo).zip",
+      "size": 2927,
+      "sha256": "4afa66ca25c81f77571786b26cc16525125c8f857ccb9b3034dbecb606c87b03",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Inazuma Completo - Versão Combinada.zip",
+      "size": 73667,
+      "sha256": "d670208274e984a59d872db2ae7fa3bd9560d70b4f4b12b45932bf61ffca4a6e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Inazuma Completo - Versão Separada.zip",
+      "size": 77128,
+      "sha256": "36da30b2b7729f7347a7d0cc0410e64cc09e7a4cbd64b123fd171c535158d01d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Liyue Completo - Versão Combinada.zip",
+      "size": 55055,
+      "sha256": "48da61bb2de051576bddde83dff55232b263e45a390fb016c8d2ad2e9c9804a7",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Liyue Completo - Versão Separada.zip",
+      "size": 58208,
+      "sha256": "128f28a0ca2c02fa490ecdbbd6c7f89e2626e6c5a80752eae6d6b9441b6a95a9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Mar Antigo Completo - Versão Combinada.zip",
+      "size": 6967,
+      "sha256": "3ae46512509c0bb9c723d09ca83f483a77d65518168d8e431d8e34b3cf71b77c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Mondstadt Completo - Versão Combinada.zip",
+      "size": 21587,
+      "sha256": "5b1cfcce00a781c4acd47a9571b32da9666110ffe6c70ec8da55e110a0c4c471",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Mondstadt Completo - Versão Separada.zip",
+      "size": 24347,
+      "sha256": "7dffbe6b4feb583e6a065af73a6da4eec0f046f2b75da0b00cb7764b216e180e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Montanha Sagrada Antiga Completo - Versão Combinada.zip",
+      "size": 6280,
+      "sha256": "030aa56374840c003fe15a28d7f9ccbb974e912c54434a1d2178380ba9e12c74",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Natlan Completo - Versão Combinada.zip",
+      "size": 66569,
+      "sha256": "e658e9837e029d078eaf6bc444b3f22aea57384547dcbf94f0cc182718db179e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Natlan Completo - Versão Separada.zip",
+      "size": 69137,
+      "sha256": "2c477d54245cb49226ffe15e2a06775a60ea1b20a48cf7296c98369e3a87aa7e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Nod-Krai Completo - Versão Combinada.zip",
+      "size": 15223,
+      "sha256": "f84945ad6e256554efb9c23d7e25534a1a4b659ad86e1c6a77d8f350cb8a63b4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Plumas da Luz Purificadora de Sumeru (Completo).zip",
+      "size": 2555,
+      "sha256": "f0de9d1b0164681c122a8616b10447f7377188d4e424e699fcdf127a006e6f88",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte da Espinha do Dragão (Completo).zip",
+      "size": 2265,
+      "sha256": "e5661741279ad4f017dae8d7e3f81d66538ac86ae9cd1aba8453b12b5d4e0bb2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Fontaine (Completo).zip",
+      "size": 4294,
+      "sha256": "4379087a4b853fbbadc0d0425670e81aea10a921ff921ba2f0868e3a3fb97684",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Inazuma (Completo).zip",
+      "size": 3413,
+      "sha256": "c1e7196205fa05ca8704a2cc8a5cba40c86b4fa16146641319a1e0c0a4f15bec",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Liyue (Completo).zip",
+      "size": 3401,
+      "sha256": "524d1e204f6119da6bd103e45f252af9f8db00b5ecfebb6be09b68a2dcc77087",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Mondstadt (Completo).zip",
+      "size": 2713,
+      "sha256": "389163f0d4e3f12fea681ce35717093b7a368c4173d7fac60232ef89ada45529",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Natlan (Completo).zip",
+      "size": 5255,
+      "sha256": "2348d087272cb11f4ee7ef98e08322fc66dae98e72946fce0dd6fef5ceec280e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Nod-Krai (Completo).zip",
+      "size": 3940,
+      "sha256": "51c8909008fd7ddb561be4dce07a8351efb481702f2d1802e6d3fd563e60e413",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Snezhnaya (Completo).zip",
+      "size": 4381,
+      "sha256": "caeb37c2a6a66e3132824df4b6c337e45753a212b3cb5974e6e8c32b59951210",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte de Sumeru (Completo).zip",
+      "size": 4812,
+      "sha256": "1e4224d353705ec113215983e9ddec6630cc9fd169bc6f8887e32119621937f5",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pontos de Teleporte do Despenhadeiro (Completo).zip",
+      "size": 2082,
+      "sha256": "dca05de6b11fdbd0a09bafe7dd792eabba1e77f323e9a3bfad9e8fe156f2d362",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pyroculus da Montanha Sagrada Antiga (Completo).zip",
+      "size": 2486,
+      "sha256": "81366a6368003edf5bde044b37b21e86836afc57da98374756fe8345f31a400d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Pyroculus de Natlan (Completo).zip",
+      "size": 8185,
+      "sha256": "397191a26752642692b6015f50dcf30d5cfe4206e8329edb37657f740984e966",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Snezhnaya Completo - Versão Combinada.zip",
+      "size": 52037,
+      "sha256": "e4f360250d258838e6131906c7cca4c50bae1ec7b11ac1e70f1aba38e6935e49",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Snezhnaya Completo - Versão Separada.zip",
+      "size": 54950,
+      "sha256": "c2e4a0cf1ac824a4ab7ef42c05d7749600be0b86bf78d9b5cfac3995993ffc59",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Sumeru Completo - Versão Combinada.zip",
+      "size": 162887,
+      "sha256": "7ea2cde6374fd3b3724cbe33975f4e9f930cbf49fcf0cf678322d9c136aae54b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Sumeru Completo - Versão Separada.zip",
+      "size": 171073,
+      "sha256": "255cb8f03b009d4695c2a81bf7096a9ccbad2219836c38e11cea13cbfb565c2a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Biển Kỷ Nguyên Cũ Bản Gộp.zip",
+      "size": 8183,
+      "sha256": "842cb04782be93c74b62e7bf72ff4aeab61fe2aa46e346fdd60945abc4809e21",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Băng Thần Đồng Snezhnaya.zip",
+      "size": 7482,
+      "sha256": "59ffbf56c67065332a7f727f15e274255f528ef5752599954f06c6055d9acba7",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Fontaine Bản Chia.zip",
+      "size": 80865,
+      "sha256": "4c70ee774c16c2a87adb28802c092f697b72263298537a6f24208d7d6d190a23",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Fontaine Bản Gộp.zip",
+      "size": 78341,
+      "sha256": "a03a056f873786c51e78ab805b7aea47ff660625b9e9acec8ae79471cea3584c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Giọt Cảnh Ánh Sinh Snezhnaya.zip",
+      "size": 5738,
+      "sha256": "13519886709bf294acb6896b6e3a13122b9eef0b88c7371eb464c315cd440c77",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Hỏa Thần Đồng Natlan.zip",
+      "size": 8296,
+      "sha256": "f9ad98904b7e380002f147027fa15c09570b52c1003e830cec9351460b3dfba0",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Hỏa Thần Đồng Núi Thánh Viễn Cổ.zip",
+      "size": 2597,
+      "sha256": "8e5cdefb71c897a83256bacb70e7e6977ef5cb908a11c935b356e7dbe618fc93",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Inazuma Bản Chia.zip",
+      "size": 75619,
+      "sha256": "33ced7d27003beed92f4df27f128c3a81dbcc9b8def029d8fe5d4f9b804b535b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Inazuma Bản Gộp.zip",
+      "size": 74028,
+      "sha256": "13a517d5b4d4729e9f3cd62bb451f1be952f7c95f770b31d05e6938c7ae3f884",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Liyue Bản Chia.zip",
+      "size": 57377,
+      "sha256": "99165583aaef46e1ed8f5d83e83bc815c9ac2543cec8379aa9edb1c3539dbe54",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Liyue Bản Gộp.zip",
+      "size": 54979,
+      "sha256": "ce3d671e2cb73a815fded0860fafaf5c5fc1e986054f2248f4a1b18ed327b4cf",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Long Tích Tuyết Sơn Bản Chia.zip",
+      "size": 19842,
+      "sha256": "da4c47d25a34fc326d3263223a966dc7f591e00f76b60d305a70d07e03dc9b25",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Long Tích Tuyết Sơn Bản Gộp.zip",
+      "size": 17120,
+      "sha256": "3d1e22ed6724c91736aab8668f2e85005e17c42d66122bfd5431ed2cc118ca61",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Lôi Thần Đồng Inazuma.zip",
+      "size": 6363,
+      "sha256": "8d386bcc271e3f1f3658839f9f594ad70057600ea68e84c624e7bb5a257c144b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Mondstadt Bản Chia.zip",
+      "size": 24008,
+      "sha256": "67d315b0f9795199d0e3324f042d9b65e7cd0069c3ae2b1806a61c355b0ab549",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Mondstadt Bản Gộp.zip",
+      "size": 21721,
+      "sha256": "32a3ef74dee7ae85c31a482373f9e581b95c71963a31aae9978e3e3ebcbbe2c8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Mã Não Đỏ Thẫm Long Tích Tuyết Sơn.zip",
+      "size": 3153,
+      "sha256": "90544618f82c969b68f6da89f410cf1f23c44b2334a5aeed3844ff7d54957541",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Natlan Bản Chia.zip",
+      "size": 68015,
+      "sha256": "c4bca6d1990a093428550de5494822980633d9223b5fb21a7ae1e4f7b8b102ed",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Natlan Bản Gộp.zip",
+      "size": 66673,
+      "sha256": "3c11fafd9d533897829428c65c4e6f62fe1bf7fd3097fb050e923aa59057bf7c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Nham Thần Đồng Liyue.zip",
+      "size": 5266,
+      "sha256": "427255aa9b9e4e2f9f3b2c9a65eab7300430e0082025a7c723593245a11ca8d6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Nod-Krai Bản Gộp.zip",
+      "size": 15786,
+      "sha256": "03fdabba2ceb8092ef8c759d8ff97aa23524c5b3f813cf1334f6cde41de9d1bf",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Núi Thánh Viễn Cổ Bản Gộp.zip",
+      "size": 6983,
+      "sha256": "1232ae3bb54f7814e265ef20a2ddd4eeddcd43125bd804f7a02f5ee3a8e83b81",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Phong Thần Đồng Mondstadt.zip",
+      "size": 3243,
+      "sha256": "f21aa6b561513008f976e1790829d8368a98937f0b1bfeacae2ada40dfdcc88e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Fontaine.zip",
+      "size": 12100,
+      "sha256": "39be6786ebf694babb9a7030822a3dca3d250a62c4c0de9b3185edca71d417bc",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Inazuma.zip",
+      "size": 5093,
+      "sha256": "d9b3f0e72684c991613667bebca4bf86b76c7206bda1c643ae9ab6b9704362c1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Liyue.zip",
+      "size": 7386,
+      "sha256": "54796d493023bc99a087a93307e50d462229f4448d1fd025a9a541504cf09b0c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Natlan.zip",
+      "size": 12256,
+      "sha256": "dc023e4c0899b17752dd816bbf49b5456595521909b6c3c3fbb0ad677b94039e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Nod-Krai.zip",
+      "size": 6725,
+      "sha256": "46e0089f09c49f7444b2e17402450b4829dec0cd4ec8a7ff98f87a481921ab02",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Núi Gió Lặng.zip",
+      "size": 2616,
+      "sha256": "610b0f26e0010a32f9554a506eabcce979fe8ec42ad65bf43d8af41c88343b01",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Snezhnaya.zip",
+      "size": 6795,
+      "sha256": "d5f25859751af1c58a27422269405e65cca5a9659b130dc6bf38ec3bd1cc0ac9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Sumeru.zip",
+      "size": 17436,
+      "sha256": "cd551e30890ed9e03fd4cd74d399103e56fbe2fdcdd5923e66acbad25ed8c81d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Rương Mora Vực Đá Sâu.zip",
+      "size": 2823,
+      "sha256": "983475428a61039ff021b4beee78da98661cc6fc11cb8ff89f2ed2e4f862f70c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Snezhnaya Bản Chia.zip",
+      "size": 53734,
+      "sha256": "c6ca0ac61d91c1264a1e71308471b508920e3126cfb1285fcd4f5085087f97e7",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Snezhnaya Bản Gộp.zip",
+      "size": 51926,
+      "sha256": "c3488b07936eea60153f728f1cf0dae7d066d98b31405207866aa0ef202309b4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Sumeru Bản Chia.zip",
+      "size": 168691,
+      "sha256": "8d8841636c074bda3fb344ff1a75e1191ca76bada7bf62a987443c4ae9b8ffcc",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Sumeru Bản Gộp.zip",
+      "size": 163295,
+      "sha256": "f713df53b862bc0adf3beb45296e03fe4da6b9a2e7f914b3edfd1316a15224f2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Thảo Thần Đồng Sumeru.zip",
+      "size": 8976,
+      "sha256": "fccfd1bf0abc3be65078185af93026733277dc4aba471c47aab68e9c4c895766",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Thủy Thần Đồng Biển Kỷ Nguyên Cũ.zip",
+      "size": 3122,
+      "sha256": "4af0645f12c9373ad624b0376162a41fc866f21178574ed2fef57e90b98d37a9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Thủy Thần Đồng Fontaine.zip",
+      "size": 7417,
+      "sha256": "1982dff3549a1ee571e98ae48c05099cf0de67dcd1e3d19016753cd899650025",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Tịnh Quang Vũ Sumeru.zip",
+      "size": 2532,
+      "sha256": "3ed3e45abd50091dd99a6e8e7fbe54a9192715932b6c1d64d1300315456cd956",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Fontaine.zip",
+      "size": 4377,
+      "sha256": "ec5ca6d841ce89191a8fb5cb6f5c8ebc2b7fcd984275f38cca1665f05358bf2b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Inazuma.zip",
+      "size": 3505,
+      "sha256": "88fc1f097590ae48e984bfcb88611a79d660fe717d5623b12ef0d46bdd4fd540",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Liyue.zip",
+      "size": 3474,
+      "sha256": "0fc7fd6856c5e789e1e9cfcf5a89bae1d12fc0043eff778ee15bf12953bea0d1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Long Tích Tuyết Sơn.zip",
+      "size": 2378,
+      "sha256": "32d7bdc88aaabef2f8f87e0eeebbefb384e10eb279a5ccbfc72d3eeff92dee2a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Mondstadt.zip",
+      "size": 2803,
+      "sha256": "271e38397300c1fc3d318935b0021f0492efd57aa797edc080dbbe7e1fe3f9a3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Natlan.zip",
+      "size": 5336,
+      "sha256": "eb2a4b930a99ffce2be4758d36608b6a71305c4b72dac3c213ccadc5842a6d85",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Nod-Krai.zip",
+      "size": 4027,
+      "sha256": "8598c2f29bc4dde91a1df1a94a24f5fe607b36540f0f1f3edeffc9e613508499",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Snezhnaya.zip",
+      "size": 4457,
+      "sha256": "e50170dbff49232b210908ecee5888bbe57e00496c62f07b76151aae046267bf",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Sumeru.zip",
+      "size": 4909,
+      "sha256": "fa7078b1f9ae04459b732ec73068ceea03d8744f066c9f098227efee88a17efc",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Toàn Bộ Điểm Dịch Chuyển Vực Đá Sâu.zip",
+      "size": 2186,
+      "sha256": "a8417c8f29f68decabcf5178e1700cd15cf9bed565e608c5b9cdb289742ef28b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Анемокул Мондштадта (полный).zip",
+      "size": 3431,
+      "sha256": "b61d94f1f4b1d95116f1ac8b88761007f1e6e580e580af437de20c24648af16f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Багровый агат Драконьего хребта (полный).zip",
+      "size": 3422,
+      "sha256": "618c0a0c0235cc8160a8dd1e92aa3ab9ef42ce3f4766fef233d8b88b1f626afd",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Геокул Ли Юэ (полный).zip",
+      "size": 5408,
+      "sha256": "c1e7b3f7cfd4140be8343fdf418f73f985b31e79cc7e906acbf8040219c58862",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Гидрокул Моря древности (полный).zip",
+      "size": 3269,
+      "sha256": "2256d9ab5ca300a5fd997ac8c6df117b0235cc2703c5039991ce3fb04995c4dc",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Гидрокул Фонтейна (полный).zip",
+      "size": 7597,
+      "sha256": "b612efaa714655134cdb932bcb8c32b8daa8b419cd7db019bc386893f0aebcb9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Дендрокул Сумеру (полный).zip",
+      "size": 9154,
+      "sha256": "2f6981e3171f1b7bb5a4229467a7e0241e438466d90377c5cf0f50234f9f0662",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Драконий хребет - полная объединённая версия.zip",
+      "size": 18016,
+      "sha256": "f1acd4a710a5317bfd948c23ecb6a370fdb357677cf716a11f59d65ae366c2bf",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Драконий хребет - полная раздельная версия.zip",
+      "size": 21985,
+      "sha256": "58040ab961187d8e31ec77b747cdc9e598d90181b85c1717496454c2c5de448b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Древняя Священная гора - полная объединённая версия.zip",
+      "size": 7106,
+      "sha256": "5f39e1f6037369b2f9b1e7f5be806e58cf71f60b505f168d9a7df56d6b5d3741",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Инадзума - полная объединённая версия.zip",
+      "size": 77048,
+      "sha256": "02164ec112c06859127906c4fb158fb88a9a7c8417b51bac4f655b80e6650437",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Инадзума - полная раздельная версия.zip",
+      "size": 81827,
+      "sha256": "5810342d649536b071a01900c626d03abafd9a75b9ea66fccf6e3297e2eb08f3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Криокул Снежной (полный).zip",
+      "size": 7625,
+      "sha256": "cad95f51af96240efc97a857e705f85be76a81d3842029b1f58dfef4cddf0cd2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Ли Юэ - полная объединённая версия.zip",
+      "size": 57323,
+      "sha256": "7e1f1c6c8855fd85e407dedbe2eafb6d085f834381d8fed4760c9a4c8b64cfb2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Ли Юэ - полная раздельная версия.zip",
+      "size": 61108,
+      "sha256": "e9095f73cd69ce7ace00e97d253aed7af16739a35516bcc428c2b4d6f96e0fcc",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Мондштадт - полная объединённая версия.zip",
+      "size": 22628,
+      "sha256": "fca6e24e6d628d58177a14658c00a3f1b09cce43fd77d063c53ebf07a918d0f2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Мондштадт - полная раздельная версия.zip",
+      "size": 26189,
+      "sha256": "8af2651ed04e2f503d9c347d4250846d7ae04373fd009d719dbb3cfc395c849d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Море древности - полная объединённая версия.zip",
+      "size": 7968,
+      "sha256": "4a4185fc2674c3cd969fc7879035fae2ccd79a339449dc4867a77bbc335fcb1c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Натлан - полная объединённая версия.zip",
+      "size": 69360,
+      "sha256": "f3609f94a476eabcae28b79080d9cd14cdedbab0f35cafa8317606e57232416d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Натлан - полная раздельная версия.zip",
+      "size": 72475,
+      "sha256": "e790ebcf57fbd8b175eb1215011a15c2f16247b5fff0938815e8e2757fde5f92",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Нод-Край - полная объединённая версия.zip",
+      "size": 16227,
+      "sha256": "144dc5f8b4b442b290e6522f6501bb81e58e7e4c26db69d73207ce44c46f3329",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Оперенье очищающего света Сумеру (полный).zip",
+      "size": 2979,
+      "sha256": "f263a58755f50055d7f3473b6b2b4ae31a95fb41b4db343a41f81564264929f8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Пирокул Древней Священной горы (полный).zip",
+      "size": 2830,
+      "sha256": "c247f53a0fea2fb73fe4b6de2a4a03d93bfabc0f38524b8b7db84f397929e53a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Пирокул Натлана (полный).zip",
+      "size": 8513,
+      "sha256": "3f953a2b31ceb999db7cde5b79be41213eb63ba8304340cc84f2108ecae7f675",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Снежная - полная объединённая версия.zip",
+      "size": 54863,
+      "sha256": "393e58f27c20582a8cb3df72cacba0915cdc1986ef115b6acef045f968909a88",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Снежная - полная раздельная версия.zip",
+      "size": 58547,
+      "sha256": "c6f012d3593e5fb0206425e9841255f68dbc370a27f8e95c3ad906ba32f00e21",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сумеру - полная объединённая версия.zip",
+      "size": 167748,
+      "sha256": "d1802d60f8d97567db4d251ea4fce221964fcb92e3d9de7ee8d4079ffc7dcffa",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сумеру - полная раздельная версия.zip",
+      "size": 178188,
+      "sha256": "26f2e3d5c16198d1e28fd71a768d2b1a720fdd379efdf93798fe8c19817b5a53",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Инадзумы (полные).zip",
+      "size": 5508,
+      "sha256": "c81203be10bf61d45101e7cdb3276b0fe6b296c56fde619d6bc434c89fb6a554",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Ли Юэ (полные).zip",
+      "size": 7798,
+      "sha256": "7dfb1c1f83604e10b437d243b8d336652f7079e6dace391db433bc2ee357fc38",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Натлана (полные).zip",
+      "size": 13071,
+      "sha256": "f1acd3ccb6651085a944b35f45ddb30843d54797fe9341663e11065b0dbd5e89",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Нод-Края (полные).zip",
+      "size": 7218,
+      "sha256": "7533ed3535418a3b4692873083d31978c06551c60a53b24294c066d890148636",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Пика ветров (полные).zip",
+      "size": 2933,
+      "sha256": "9ae4a52b1ac8f5cb7086274335d23c9e441fa930d56adac47439517895e387c4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Разлома (полные).zip",
+      "size": 3108,
+      "sha256": "9aa5b2a2cd03ef8f4b093cb8f601adfa36194e1bab759fa11512ed4c9c7d66f6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Снежной (полные).zip",
+      "size": 7284,
+      "sha256": "0ed3a4530a1d1d93dc9bb34066f007115a85d031ae9d6d5855729769e23690ed",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Сумеру (полные).zip",
+      "size": 18074,
+      "sha256": "2c7ea1b047c46fc0533a7c1bb417cda1c8dc55b4dfd9dc05ec1058bbbfffa945",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Сундуки моры Фонтейна (полные).zip",
+      "size": 12691,
+      "sha256": "b6a4b0ef252c14a265e5d62c659d8fc96017bda9a846e31fd2bde967b315d19a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Тенекрылая капля Снежной (полный).zip",
+      "size": 6309,
+      "sha256": "72b87965748c237bb80340986d4bcdc75e39bf0a428446574ad8703c9541f953",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Драконьего хребта (полный).zip",
+      "size": 2695,
+      "sha256": "1ff5d4366cab915fae8c468efe508f96de99eab578d10662bd3111760daa5580",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Инадзумы (полный).zip",
+      "size": 3839,
+      "sha256": "26860514506c8eb80085790f19771c7479b0391860ae3c67175f0e3c4093ce8c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Ли Юэ (полный).zip",
+      "size": 3789,
+      "sha256": "19fd5d61e6e0f2bdadc9e31a163f78904a9c10785959b6d61dbe9a6fc17ed751",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Мондштадта (полный).zip",
+      "size": 3134,
+      "sha256": "a107a11752b18c2115092b032a1c1b40fe50054a90f0a7244d5c9d4b92045f3e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Натлана (полный).zip",
+      "size": 5714,
+      "sha256": "03ed5b96f52fdfbbf56dad8183d1cf7a21d2837c0da98fa5381b935be7d00a1a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Нод-Края (полный).zip",
+      "size": 4362,
+      "sha256": "b32d28efbdfc8c9ffad4eecc77dfe1360eb6be4460d0068bc16ed7a814b5c998",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Разлома (полный).zip",
+      "size": 2416,
+      "sha256": "22b6279e49587418e18584254391e1a06b5677fa0865bb55d227a66237044fed",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Снежной (полный).zip",
+      "size": 4767,
+      "sha256": "7a87758680da1e5700402950e22a3b70315ff85093bb0ab90eade989a73b1f4d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Сумеру (полный).zip",
+      "size": 5242,
+      "sha256": "3b6d8d8e6f90cf8ef00e8b0e711a45a8975f5e7d1e370bf8fe8b97a1095da3b6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Точки телепортации Фонтейна (полный).zip",
+      "size": 4718,
+      "sha256": "4bf9a44f924b7ac46ca005e75e799676b700878a68b4961a2479b1f46be26c5f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Фонтейн - полная объединённая версия.zip",
+      "size": 80869,
+      "sha256": "b49a516c6ba19269d4c626ceb07db39f6919ff84f908f7105e9fcb29fe60156d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Фонтейн - полная раздельная версия.zip",
+      "size": 85936,
+      "sha256": "a8dcf2b919041dd799460430da212a3ccbca6f0a7909d31a4544c5db570c8737",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/Электрокул Инадзумы (полный).zip",
+      "size": 6591,
+      "sha256": "8eb0e5b42bd81ff2d20a57a0331e3e16a7b8a10edbb69b846efc8008235e5d36",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/इनाज़ुमा के इलेक्ट्रोकुलस (सभी).zip",
+      "size": 6819,
+      "sha256": "054e0ca293c6d5320be6133b48968dd5645c902fe867d87525587cc1f56f35ba",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/इनाज़ुमा के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 3991,
+      "sha256": "cdd42502bde7e449b448876367bd8138c37ad5ac5eff3ef78bec48ef7bad989d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/इनाज़ुमा के मोरा चेस्ट (सभी).zip",
+      "size": 5580,
+      "sha256": "ec1edd298f6f1a9115c496414ed0585392937c022c06d3eb1839039b6f65a1b8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/इनाज़ुमा पूर्ण विभाजित संस्करण.zip",
+      "size": 81830,
+      "sha256": "635a9d871828334ad46aaa54322fcb03f0894df6fa22d3cf9e396ee0bb3e6b7c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/इनाज़ुमा पूर्ण संयुक्त संस्करण.zip",
+      "size": 76458,
+      "sha256": "f14e8522951f8c5b30426ddec35bbd62b88563a59dddb49e0064a14c8997b59e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/गुज़रे ज़माने का समुद्र के हाइड्रोकुलस (सभी).zip",
+      "size": 3619,
+      "sha256": "658c8077cfbc6ba350e745e6c45fd92f895247ecceb89ea2c45cbc3c87cba01d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/गुज़रे ज़माने का समुद्र पूर्ण संयुक्त संस्करण.zip",
+      "size": 8465,
+      "sha256": "7e9978aeff5b2ce87b0ec4bc18772b00edeb8d0d4a6880758e655243d015f6f8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ड्रैगनस्पाइन के क्रिमसन एगेट (सभी).zip",
+      "size": 3510,
+      "sha256": "fbc58d6a8ce0a5912175460123460419b9bea383da024606e4687813d16a53f4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ड्रैगनस्पाइन के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 2805,
+      "sha256": "65187892f8a0e26482b14cf59a114952789d671e951e55672ef69e6d7a6e3806",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ड्रैगनस्पाइन पूर्ण विभाजित संस्करण.zip",
+      "size": 22294,
+      "sha256": "ab660cb2bca0879c7d0d33bd1aeae01480304f192d7e8cd9eae5326a2fdc3507",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ड्रैगनस्पाइन पूर्ण संयुक्त संस्करण.zip",
+      "size": 17909,
+      "sha256": "d329ea3b7a04eed42835751b8280a664d9955c4596021945d1abf487aae2ea8a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/द चैज़्म के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 2562,
+      "sha256": "883f8763a4d1d069c28f0cfd3e94d86ff94991bad2a6530a10b3f2a5bae85743",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/द चैज़्म के मोरा चेस्ट (सभी).zip",
+      "size": 3155,
+      "sha256": "c61063912c4538e291f36e6bc3059ecda65fc5fb267c3c4254d47b62a5efe2b9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नाटलान के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 5852,
+      "sha256": "5150933957fee48ae301cd3d94548031deb040e72b9fbb4a164dde2a2e3e1867",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नाटलान के पायरोकुलस (सभी).zip",
+      "size": 8693,
+      "sha256": "1a91a15a06776dcac00765f1490b81ed23827d34e4f94cb3b8778cb161e11c07",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नाटलान के मोरा चेस्ट (सभी).zip",
+      "size": 13022,
+      "sha256": "48b024ed18602c2010710fd74c8f865fa813c3900023f19b83c615df3c93f787",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नाटलान पूर्ण विभाजित संस्करण.zip",
+      "size": 72680,
+      "sha256": "498d8cf681ef4ca08c0006476d1a13aca969e5265576c3282f5f5d33672a37bf",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नाटलान पूर्ण संयुक्त संस्करण.zip",
+      "size": 69020,
+      "sha256": "3754393ed41c4e7a1aac5e7ffdaf9732bcacdce8470a8b35368936b8c63f0c24",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नॉड-क्राई के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 4534,
+      "sha256": "2e9289b573074a50e6faf5ea971e1ae93f6160e06ee5fec3f846785db79f830d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नॉड-क्राई के मोरा चेस्ट (सभी).zip",
+      "size": 7246,
+      "sha256": "fec3dd213421f9e9133d70738bc007ce8252cf17ee1074ec5b4d7ded022a1a6e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/नॉड-क्राई पूर्ण संयुक्त संस्करण.zip",
+      "size": 16384,
+      "sha256": "dcd657edc7386bdf705ce4252c2397564f0fa383f0c7c43b889c9afcf9768651",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/प्राचीन पवित्र पर्वत के पायरोकुलस (सभी).zip",
+      "size": 3007,
+      "sha256": "1cded7ef6d0aedf61f033d789be61c162e3644c314b983bb3603b87001cec271",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/प्राचीन पवित्र पर्वत पूर्ण संयुक्त संस्करण.zip",
+      "size": 7135,
+      "sha256": "036fa4942ef92b68757b9888f6cd80f1f29f5a40c508f09cd67569cf55ddde48",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/फ़ॉन्टेन के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 4880,
+      "sha256": "aaa4f1b11479ddea5e00af20a5bdc139d7d625f3f2f35fb79fd5e4c804b61b28",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/फ़ॉन्टेन के हाइड्रोकुलस (सभी).zip",
+      "size": 7852,
+      "sha256": "7b941aebcad977338b1e68783be9e104ddb8d7735a640d687b124a8ef6be3eef",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/फ़ॉन्टेन पूर्ण विभाजित संस्करण.zip",
+      "size": 86474,
+      "sha256": "0979d07c3b77696b3894678f648bb2399d5e1e7afbe1cdb2d6d3107484ba5a4e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/फ़ॉन्टेन पूर्ण संयुक्त संस्करण.zip",
+      "size": 80997,
+      "sha256": "73ba94567debd531e5f3f9467420329f6978c0cb9a033f01371cc8233733b36c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/फोंटेन के मोरा चेस्ट (सभी).zip",
+      "size": 12693,
+      "sha256": "820d3c08ff55faa41046eaa96cf56e7341ddf482a45bb63dbb215d1cb2e2d96e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/मोंडस्टेड के एनीमोकुलस (सभी).zip",
+      "size": 3578,
+      "sha256": "62e3e31d6047a4488371867bbd08581fb7b7719cab8bdc59b9d973bcce105e0e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/मोंडस्टेड के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 3259,
+      "sha256": "46533863b3cdde5fb2c5c058978cd507d8c54102e42f2b4f92b3806ff44b8886",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/मोंडस्टेड पूर्ण विभाजित संस्करण.zip",
+      "size": 26585,
+      "sha256": "8a5b2898fd19541ffe8161ce5dc37c623e5670974adf4ba723fa5ca0a365ae50",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/मोंडस्टेड पूर्ण संयुक्त संस्करण.zip",
+      "size": 22569,
+      "sha256": "2c0b53abc029fd236adcb6d2407d2a14c0e855aa9be3cf85a420b7543756cc85",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/लियुए के मोरा चेस्ट (सभी).zip",
+      "size": 7862,
+      "sha256": "767a302acb8023052da3392d5825491dff541b6cdfdacaf80cded2e166661ef8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/लियूए के जियोकुलस (सभी).zip",
+      "size": 5560,
+      "sha256": "da85fc6e2b391936407caeed449fe5626aef9329dfcfc85132ad7fec9d5dcbdb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/लियूए के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 3924,
+      "sha256": "555448859a63147ff85d7566d91d69339c4c6de05348b7182f5366eb9fafa467",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/लियूए पूर्ण विभाजित संस्करण.zip",
+      "size": 61204,
+      "sha256": "161cd55d0daa85bec33cdac62b8cef69ee82d15b7e380a018e384410ffa0941d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/लियूए पूर्ण संयुक्त संस्करण.zip",
+      "size": 57015,
+      "sha256": "feee9cbd88a9dc480a293d02ffd60b98097a7232f639b7108d8d208875ffa564",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/विंडरेस्ट पीक के मोरा चेस्ट (सभी).zip",
+      "size": 3022,
+      "sha256": "65b25aa250ee2228eaebba301711efbd6902bae4a97903074be050faeaf06242",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/सुमेरु के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 5395,
+      "sha256": "9afc84a99b23f11ba4522098b928abb5909a4986650a5e359c997294772aa770",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/सुमेरु के डेंड्रोकुलस (सभी).zip",
+      "size": 9381,
+      "sha256": "7d872813dbff0b303f888dbca3e724e79094b345d973f4ed306f2c0f7ad39474",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/सुमेरु के मोरा चेस्ट (सभी).zip",
+      "size": 18178,
+      "sha256": "2326736dad63bb240fbcfc2f9a922376a7d2a00da9316477ff6e64504bb2d710",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/सुमेरु के शुद्धिकारक प्रकाश का पंख (सभी).zip",
+      "size": 3117,
+      "sha256": "8729b6b8f472ba42e168aeaa3fde76c0d8343f03f74c097321c0247a0fdf97e3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/सुमेरु पूर्ण विभाजित संस्करण.zip",
+      "size": 179802,
+      "sha256": "9ca089ae77ca53b12a8e907d39365bab833e5fcdd00cf402ad21b41fe5be1913",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/सुमेरु पूर्ण संयुक्त संस्करण.zip",
+      "size": 168674,
+      "sha256": "74588592b82afb6a4a892aadbf645b52139b1a28241a58096005f1693393da5e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/स्नेज़्नाया के क्रायोकुलस (सभी).zip",
+      "size": 7937,
+      "sha256": "12df6ed8e41161ce8bef85453e41a00488db1aea0eaf6fc10a77ac155c3a3c47",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/स्नेज़्नाया के टेलीपोर्ट वेपॉइंट (सभी).zip",
+      "size": 5030,
+      "sha256": "efb4901863220a779a9f05d81cf65b501c4e1473af39df7eae7034615a6c8837",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/स्नेज़्नाया के मोरा चेस्ट (सभी).zip",
+      "size": 7409,
+      "sha256": "cd3cfe4634a52d8eec8f6216b341cdfb65349cf2297c98412abfb7d72b34d761",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/स्नेज़्नाया के शैडो विंगड्रॉप (सभी).zip",
+      "size": 6398,
+      "sha256": "b53e69701f9e61938c143e18d37bc3337bec9c026a1e98bb649acc67d587d756",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/स्नेज़्नाया पूर्ण विभाजित संस्करण.zip",
+      "size": 58404,
+      "sha256": "db947fd321a6b82f0401cc70d20d1c3dcec08b0522cad0ee1e17d9e951779b9f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/स्नेज़्नाया पूर्ण संयुक्त संस्करण.zip",
+      "size": 53979,
+      "sha256": "e6df559e78ba7a585d92769f8fb4fa4be41018308cfe4fea69cedb225792249e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スネージナヤモラの宝箱（全部）.zip",
+      "size": 7065,
+      "sha256": "57d480fa662c7dc0afb046d5175b327f77dd254c640b0637ff3060f728b9ace2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スネージナヤワープポイント（全部）.zip",
+      "size": 4566,
+      "sha256": "eb52c3b9c5830c0552b567c3e475834d9b5d4ab0eb6793a5366792e10769f526",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スネージナヤ氷神の瞳（全部）.zip",
+      "size": 7557,
+      "sha256": "819f45288d3c4c786c7b38a05adb199af60981f78e42005a46d2b368d644602f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スネージナヤ翼影の雫（全部）.zip",
+      "size": 5834,
+      "sha256": "61cb9dd9e2c63fe56ea89445edcc14a5bac865975002a3fb64d1dba9261b6567",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スメールモラの宝箱（全部）.zip",
+      "size": 17588,
+      "sha256": "04a1aa3ac9ff0270ee3709a8470d24e7e877875c13905e825f1e03e6d4346734",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スメールワープポイント（全部）.zip",
+      "size": 4982,
+      "sha256": "e89c822c30ce66b0d0a2306b02b3b8b831f7d62483acaf86d2fc144d74ea6251",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スメール浄光の羽根（全部）.zip",
+      "size": 2592,
+      "sha256": "b82cbd31faa7a328b951f591e538507ec79a3dab9df323aab8ef9846778de9d2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/スメール草神の瞳（全部）.zip",
+      "size": 9050,
+      "sha256": "bb2133c3d9a128a9ff78fe66a406be9d58344f0ec7e4abf249efb06dbef688d0",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ドラゴンスパインワープポイント（全部）.zip",
+      "size": 2397,
+      "sha256": "8d079f10544b94c2070101989a076047b125187058e6347c8a0d86d28730960a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ドラゴンスパイン緋紅玉髄（全部）.zip",
+      "size": 3115,
+      "sha256": "8a00357d5d40fc3a7bfbd918ce7d45eb1c82e47ad9ffcab30acd65c4b76027f0",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ナタモラの宝箱（全部）.zip",
+      "size": 12503,
+      "sha256": "beb2fb3dd33e606d6a80cd5d572b3b839ea5f61c5e4e03e041b7ac3b0045e49d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ナタワープポイント（全部）.zip",
+      "size": 5371,
+      "sha256": "71b7e7b4fc5b2d9e167aff9f512b97b36f7182908e5ddef01a4fca413ea9c85e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ナタ炎神の瞳（全部）.zip",
+      "size": 8345,
+      "sha256": "800f7aebe43e45536edabc7f81c3cd576c187a87bf56a9f931da0de33983f7d1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ナド・クライモラの宝箱（全部）.zip",
+      "size": 6924,
+      "sha256": "2f748411e1b10fd4ebdf2f11c5d242e224f8fef81248b41f0c8b6047367a5fdb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/ナド・クライワープポイント（全部）.zip",
+      "size": 4131,
+      "sha256": "00d0933ee7c329fa7bc1d3d92e003817b16148814ed29f548a7e3fa183d4512e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/フォンテーヌモラの宝箱（全部）.zip",
+      "size": 12374,
+      "sha256": "6c74bba170b88af05ac7fc629921989bad7bc02457b7c9cca480b95173c824dd",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/フォンテーヌワープポイント（全部）.zip",
+      "size": 4478,
+      "sha256": "2b4d19e3be861f42836818867d9fb21a7804772143a04e55196f053f1fd4e005",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/フォンテーヌ水神の瞳（全部）.zip",
+      "size": 7490,
+      "sha256": "090990d66fd1cde0a0f68fd1c676f1ff03aba5b5b5de25240ef6b50958ef04c3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/モンドワープポイント（全部）.zip",
+      "size": 2810,
+      "sha256": "d3b654fbbf18bbeb9a59582b6d60a0260904d8170a36cf8fe9be6e6581ed9928",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/モンド風神の瞳（全部）.zip",
+      "size": 3257,
+      "sha256": "b520d6421e6c6e4200d78bd420844146536c14adba8cecc520846cdac582c9de",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全スネージナヤ分割版.zip",
+      "size": 55008,
+      "sha256": "2e23f807d3c6a8ff8bbd4087a72cd89ca67f5865452a663122f71d25d31eb447",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全スネージナヤ統合版.zip",
+      "size": 52092,
+      "sha256": "d430e8bff0ecd7a8dff4a9da2dcf7a80e77b875cfc4907da94f331b07a6e6b78",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全スメール分割版.zip",
+      "size": 171351,
+      "sha256": "05f43ec18a154f3b115f9b54e81a77fc95da9235061fb0ba5673f50ea8243b00",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全スメール統合版.zip",
+      "size": 163446,
+      "sha256": "fc9e6027be437b856555e44da6e53bb5395fe666cf8df9c36431ec656ff5aa34",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全ドラゴンスパイン分割版.zip",
+      "size": 19979,
+      "sha256": "812c97844fc3e26b52d5d53538698afab5462eaca9c710f5e03ad31c5961c7b0",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全ドラゴンスパイン統合版.zip",
+      "size": 17007,
+      "sha256": "70ce3b18820531d67f6e6340aa2e2fef4c29bab83969830953a80e667ef30308",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全ナタ分割版.zip",
+      "size": 68867,
+      "sha256": "8daa43a735b8242146f1377e208b5e382e25b06c05f60189ab057098ad7c1666",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全ナタ統合版.zip",
+      "size": 66429,
+      "sha256": "a844efecdfb9458ec4647a220fe2e9e925e49994053a5a2dce5d67a6a68a73cb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全ナド・クライ統合版.zip",
+      "size": 15451,
+      "sha256": "e917db1739e8fc6d7b1edb8eeb3756e2b0a53386b15b31cbe3d3c4bd658be90d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全フォンテーヌ分割版.zip",
+      "size": 82146,
+      "sha256": "f98ffb9fb36d1a80ba8ce1458cdf25eb3bfcdf1459e900b86a9612108cd4a991",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全フォンテーヌ統合版.zip",
+      "size": 78087,
+      "sha256": "988da4fe7306064d8391068f9f62998f3cc43058589af3db8e65c05546b79ab4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全モンド分割版.zip",
+      "size": 24035,
+      "sha256": "9ef1a110ca5b9f7c0416c71e92806593cc14a1423ae948a11d11f5295f97e36d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全モンド統合版.zip",
+      "size": 21532,
+      "sha256": "352a7b5ece10dc759809bf1b4064e3e147af6dc9263037c025b49d7c41bdb50d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全古の聖山統合版.zip",
+      "size": 6194,
+      "sha256": "8f4586904c3b3bd48ff9d546b40bb0c3846e0376c0da25532655dcb3fa4f3e25",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全往日の海統合版.zip",
+      "size": 7016,
+      "sha256": "1635f72c5df0e52973e664931882088f41eaa9d132a6182b1357f5dbe1867ec1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全璃月分割版.zip",
+      "size": 58192,
+      "sha256": "e61ef396241a307ddbe9181917e83f1977fde030874388947879c7bcde545b21",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全璃月統合版.zip",
+      "size": 55257,
+      "sha256": "477a89a965553b0ebd25fee91ff6aa86384ab3ff65aebc4e57ed331a4ec7834a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全稲妻分割版.zip",
+      "size": 76719,
+      "sha256": "706353a9857db1256b086122764eb9465f5a9a575b066589fd108d8ccff079c0",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全稲妻統合版.zip",
+      "size": 73506,
+      "sha256": "9eb08b5d02bd5ed647fba723bd0b5832dc024c4b686dda2b78e01c0a64fe42c1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部挪德卡莱合并版.zip",
+      "size": 15103,
+      "sha256": "28cb8afc8970665fcada7be6f55cc2a6864949c667cf50090c41e501d04761e6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部旧日之海合并版.zip",
+      "size": 6783,
+      "sha256": "54470f86258a04e6cbaa49f055a28b1a05b9cc182e56070e59c34c973257855c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部枫丹分割版.zip",
+      "size": 81011,
+      "sha256": "6996beef6a4fc507d9004586473f3c1353f1dd75aaaef4b866fbd28e3473e1d6",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部枫丹合并版.zip",
+      "size": 77242,
+      "sha256": "9c82f2146e2b9187dad345da2f45c8bb26316282db0eca7aa1f451c97576bb89",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部璃月分割版.zip",
+      "size": 57705,
+      "sha256": "accad1b739e7803cae569ead138ae1f8a72e15cc924530a1fc1c2fb11f203ac3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部璃月合并版.zip",
+      "size": 54692,
+      "sha256": "556c7316911985e8f746aed07d51dc1774cafaec240ebf15710970b150e9b80e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部稻妻分割版.zip",
+      "size": 75778,
+      "sha256": "099b142e3a26f7dd9ede136827bcd399b25a8a28408f5884764cfe85fc1e888d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部稻妻合并版.zip",
+      "size": 72523,
+      "sha256": "57edd1d808bb16f0c3b84e9e362c25a477326e3f58d56823d281d2e06ba38b1a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部纳塔分割版.zip",
+      "size": 68187,
+      "sha256": "aec736693c06bbebf5f33b4cbc9526c6d75c4a594d7c9c6a5749c96a3433b5fb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部纳塔合并版.zip",
+      "size": 65758,
+      "sha256": "68722f33fb616a9704618ac6dc5331d11ed60b362c0de41d2ee46f89435551cf",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部至冬分割版.zip",
+      "size": 54109,
+      "sha256": "88b76da6a0b5ebb75a94032ef9b3c460da57e49326991204639c040986e0831e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部至冬合并版.zip",
+      "size": 51520,
+      "sha256": "fa8ac510d3d8f482dac25c11ac7b8695bc6090770511ecc8de66262e4c61ea2f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部蒙德分割版.zip",
+      "size": 23850,
+      "sha256": "9dc4f76235295654c48c811c12a86903021ec6bd73e1c93dede160e895021b58",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部蒙德合并版.zip",
+      "size": 21347,
+      "sha256": "593d3c009cb687b4ca331b25d0b0d8d0fd5cc7a4d0a68795568932d0e11ca6d8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部远古圣山合并版.zip",
+      "size": 6025,
+      "sha256": "a141960f0a0045e8bc54e9b3e5eaee0c7e35cf95f726a26700908b56b5cec8fc",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部须弥分割版.zip",
+      "size": 169383,
+      "sha256": "067b1538cd7c7152a84b5dadaee839a9702a681e689b3a1e2c4d70336bb775e5",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部须弥合并版.zip",
+      "size": 161617,
+      "sha256": "b0aeaf051329c4fa410dd18c3701fdf31dcedb7b8161204ded30673b744a345f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部龙脊雪山分割版.zip",
+      "size": 19494,
+      "sha256": "b805856371092dc7ab1c1af588de8a4b7c607326558d10d3beb75e544cd71339",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/全部龙脊雪山合并版.zip",
+      "size": 16734,
+      "sha256": "a802b771c5913cc3b2b7177301c2e2c59202e9558c1c4a142e5dea3faf16d9f3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/古の聖山炎神の瞳（全部）.zip",
+      "size": 2542,
+      "sha256": "f714bc43ff6891341d7b5527e36d488cfaa91981a9f81e5b58fb405b671503d4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/层岩巨渊传送锚点（全）.zip",
+      "size": 2048,
+      "sha256": "b25ff2ea4f56c8a15f2dc00ace051e1871c13c33d1416fd1f351042dd7db3940",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/层岩巨渊摩拉宝箱（全）.zip",
+      "size": 2753,
+      "sha256": "b15a528efe13f10830f23bad3a56ddcdf60aaf18ef1542a73a065f0dc73ae3d9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/層岩巨淵モラの宝箱（全部）.zip",
+      "size": 2876,
+      "sha256": "c605bc8ae7c7890cf5112d2d2c2ede5d823ee251926f80724dec54d950abdf1f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/層岩巨淵ワープポイント（全部）.zip",
+      "size": 2175,
+      "sha256": "6c0a1c9a5931e7b76eccea7b74ec0c24105e5bace76970f3e0c97470a6c5c9de",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/往日の海水神の瞳（全部）.zip",
+      "size": 3055,
+      "sha256": "e8fd2efe8e8712d6f7c5f5cf46942e06902e014b253e4c27d0217de6fb293b37",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/挪德卡莱传送锚点（全）.zip",
+      "size": 3926,
+      "sha256": "b495a1c6930b4300ccefcd2cfb9c06a76562d2b6e9ac6f220f7cbdfdf9eaaa63",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/挪德卡莱摩拉宝箱（全）.zip",
+      "size": 6703,
+      "sha256": "1991283d7b7bb81e11d7a1b94f93bd4730ceb0b8d7055ce3a229adfef76178e4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/旧日之海水神瞳（全）.zip",
+      "size": 2958,
+      "sha256": "19b81ee019f31b04700a59b1d0ed11c1df6dd319b8d3913aa85cb2cbe695e21b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/枫丹传送锚点（全）.zip",
+      "size": 4225,
+      "sha256": "8c180e5019b4a773da401e74964860c282c4d2d44fd05954e7f80946e204c393",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/枫丹摩拉宝箱（全）.zip",
+      "size": 12035,
+      "sha256": "9624f2de512793fb2105c817a63cd81fa5db903a745ca833e0047b48d96dd7a1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/枫丹水神瞳（全）.zip",
+      "size": 7289,
+      "sha256": "533b67cbe01b70f679007cdfb5f60af0574a02c384817b79932a813f3c9d1f21",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/璃月モラの宝箱（全部）.zip",
+      "size": 7443,
+      "sha256": "1e4b86110a1852bfb2cc824eed54a18ac2a74b050d51ce2bac87f95297759b0b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/璃月ワープポイント（全部）.zip",
+      "size": 3505,
+      "sha256": "9612bac98f09dff0aba007fb873838ea100db183ef4d2c0903ba24339dd519c3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/璃月传送锚点（全）.zip",
+      "size": 3360,
+      "sha256": "f8e4292eaea12b30bceb7d1df4b3cb7956b850c61b622f9175f571caecad4287",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/璃月岩神の瞳（全部）.zip",
+      "size": 5308,
+      "sha256": "ff21b22bac19a80c6697135def0ba9d9d35f69e250df7f9da9231c7f66d633da",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/璃月岩神瞳（全）.zip",
+      "size": 5196,
+      "sha256": "2e8542a5d674cf3f0f17666383d93d5e7d869862980010c056789ef2baa46264",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/璃月摩拉宝箱（全）.zip",
+      "size": 7318,
+      "sha256": "2d8319ad76c8f760e73f136b184a1cf8777e82ee72137cca74b5d869bee8abee",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/稲妻モラの宝箱（全部）.zip",
+      "size": 5147,
+      "sha256": "4beba1880f35fa0943ae1da2bd95fa3d401af24fbd6831c48be872a73c7ec43a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/稲妻ワープポイント（全部）.zip",
+      "size": 3505,
+      "sha256": "5cd67c7d7964f827024dacfb2157509d32150c96cda2d45c98b1145dd95e20d8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/稲妻雷神の瞳（全部）.zip",
+      "size": 6401,
+      "sha256": "fa94cde87655d53baf88be5ae6eedd151b4bd09ea118d54fc5f4ab9b6b02161a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/稻妻传送锚点（全）.zip",
+      "size": 3347,
+      "sha256": "ddbae5fe26c1c2831b1c8d17077a18f969ba02fc2b2f98f39853a23e78e68346",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/稻妻摩拉宝箱（全）.zip",
+      "size": 5035,
+      "sha256": "c3b7a128419bcb9d7a113817aa1d8f36662c90f4a48093662789d0b364ed3045",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/稻妻雷神瞳（全）.zip",
+      "size": 6277,
+      "sha256": "95fc18d173e4f414a916050f3869fa489cdb9e093f122a3980839be30e3cc54d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/纳塔传送锚点（全）.zip",
+      "size": 5197,
+      "sha256": "287cbc748d2507d490a35410fdf960ede7e07da14912689a0157cea827c2e816",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/纳塔摩拉宝箱（全）.zip",
+      "size": 12385,
+      "sha256": "7ab8d312c9a85ec0d41f863676a84aab2629c73c4f9a8f79810d1cf238791c67",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/纳塔火神瞳（全）.zip",
+      "size": 8218,
+      "sha256": "d374942f452fcec2cd1c6d96e0d1a13e2e6a7433047f3b704ea9c7e71967a93a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/至冬传送锚点（全）.zip",
+      "size": 4309,
+      "sha256": "878de35a7c4fe1e7e27dd0ed91501b88c0483a3ac647481050b81553be069fa1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/至冬冰神瞳（全）.zip",
+      "size": 7372,
+      "sha256": "4324b0d544bdb23a1e3d216ce5dc5740de5670a117353d7a18e105222438c1a2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/至冬影生翼滴（全）.zip",
+      "size": 5641,
+      "sha256": "0677c250f672bc4bd630514c213c1483e81749e43b0bbf1e8dfd33dffda0b197",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/至冬摩拉宝箱（全）.zip",
+      "size": 6761,
+      "sha256": "2fc6864e7f75e011d26fd6eddda983feef2d3d3368d7f31205815f95ca260e1a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/蒙德传送锚点（全）.zip",
+      "size": 2645,
+      "sha256": "4f8baf4357af879e49319f5d86d25a2be33960754ab8e22a99e15bc9ae2304da",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/蒙德风神瞳（全）.zip",
+      "size": 3137,
+      "sha256": "5fdba77e6c7474c46f2085cb15e36440e6ed53f61c0128e78b1c901cada414ff",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/远古圣山火神瞳（全）.zip",
+      "size": 2440,
+      "sha256": "8c21e09c96b9645c992b571f654f647043bfc5ed6225b0f298d7bf7275bb5ba3",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/须弥传送锚点（全）.zip",
+      "size": 4766,
+      "sha256": "a6d51a283532b1e5f69e9408d2d321e6a1058a268716f3131a6dc7a0dd7c09ce",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/须弥净光翎（全）.zip",
+      "size": 2436,
+      "sha256": "a8805c8f75168077e6b41eda6ae08bf15ea09af2e801506e414a611a45b6e112",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/须弥摩拉宝箱（全）.zip",
+      "size": 17382,
+      "sha256": "4be26f519789f1840358e1aa42c798e5b46177f3191dca9e0650edb5dbe33eee",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/须弥草神瞳（全）.zip",
+      "size": 8882,
+      "sha256": "c79c3db0a88ff0ba2a0a18d037d2c27f2210ff1f03a1e512329554202af6e8c1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/風止みの山モラの宝箱（全部）.zip",
+      "size": 2675,
+      "sha256": "78db10f43431feddbc7f4f3875b7434847946921216783dfb254e882e288888b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/风息山摩拉宝箱（全）.zip",
+      "size": 2520,
+      "sha256": "df070672297e3f82c0e13f31b9ed2d2d9a1bca153592f991e1abae43a56b42f8",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/龙脊雪山传送锚点（全）.zip",
+      "size": 2194,
+      "sha256": "e4feb986ee401c957f4f2d925a5e30334ab0718045a6f6bd9dcaeba9f48f3e1b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/龙脊雪山绯红玉髓（全）.zip",
+      "size": 2975,
+      "sha256": "108a913c6e2e66f993989cbb2c3e98eaa9f6e6bef47b57e3858704fbc61cd5f7",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/나타 모라 상자 (전체).zip",
+      "size": 12426,
+      "sha256": "063207eb1c643e11574e2a9aecc20773e2abea5b03f511f474e5ac4cbd01f03e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/나타 불의 신의 눈동자 (전체).zip",
+      "size": 8468,
+      "sha256": "365270a2bf9dce35d9d2c8e87c86228e4e35a1cc39e8f6f0d2f53bec10a054ba",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/나타 워프 포인트 (전체).zip",
+      "size": 5264,
+      "sha256": "bbd30faffdd851aa0863d5151c20726ef212592255d7ddd48ee6ded70e73e55b",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/노드크라이 모라 상자 (전체).zip",
+      "size": 6793,
+      "sha256": "69bf4306e998e46a4797fc33a3ac8f33a237aa2d8a85bb73562d63ab0f777fbb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/노드크라이 워프 포인트 (전체).zip",
+      "size": 4030,
+      "sha256": "51af4398e90f7f74cbeff8ac156976eba0fbc0a407c3b9e9b9fadd56e7235b4a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/드래곤 스파인 워프 포인트 (전체).zip",
+      "size": 2295,
+      "sha256": "87c725e640a2bb4a878f1254331ee54e7a2f8d86cd7a0855c70649eeedebcb6d",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/드래곤 스파인 진홍의 옥수 (전체).zip",
+      "size": 3095,
+      "sha256": "912b699168e0fc84ee765195b9bc9273bd3271ac91751a2b7b40cbbac3eaa9d9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/리월 모라 상자 (전체).zip",
+      "size": 7401,
+      "sha256": "c0ff1cc3f215d1dba8c196574564461f1dab134e07e5ee2cb0199c63c8281c1a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/리월 바위 신의 눈동자 (전체).zip",
+      "size": 5395,
+      "sha256": "4b9bdf38739de3669152fdf5eab3586333c7da2a01931555e18d190bc23d3db9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/리월 워프 포인트 (전체).zip",
+      "size": 3420,
+      "sha256": "ee1f84069975d6028d37501d1efc6878ea448fc0f7e7981a14b41bd2d489354a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/몬드 바람 신의 눈동자 (전체).zip",
+      "size": 3308,
+      "sha256": "877ece73cee2eae580c0d527fc4c2c324f974c1e05e2f7750c683e8951a1fd08",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/몬드 워프 포인트 (전체).zip",
+      "size": 2702,
+      "sha256": "f0cb27b1846cb9008998ed134305dea80260c3e7307bd2f833b17ac1dcc15bfa",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/바람 멎은 산 모라 상자 (전체).zip",
+      "size": 2626,
+      "sha256": "90ba2c8e0453db21f367bedd651d639ed33fe45ac6c8e9f534a35e70f1e31f83",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/수메르 맑은 빛의 깃털 (전체).zip",
+      "size": 2593,
+      "sha256": "d2e29095c629eb19366197901b56fc3e4a75e25115bc3f85f595d37f4ecd2196",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/수메르 모라 상자 (전체).zip",
+      "size": 17528,
+      "sha256": "e1dd565a25697ddc9a4e7e88981711bb9dd628b513dd02720235ac4948584a27",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/수메르 워프 포인트 (전체).zip",
+      "size": 4865,
+      "sha256": "c4308c68d1a404ed0d4049f4d4855331fd6a768667785ca7a93b77daee009927",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/수메르 풀의 신의 눈동자 (전체).zip",
+      "size": 9136,
+      "sha256": "92afb53aa645dc40bf1df47d006fade3e0e6baf4b2d3ce0a2d594430d74cff79",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/스네즈나야 그림자 눈물 (전체).zip",
+      "size": 5815,
+      "sha256": "bd56540c9d2f40000bc165d82d393d7f592ae8bffa1ce2edb83a250b239b55ec",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/스네즈나야 모라 상자 (전체).zip",
+      "size": 6921,
+      "sha256": "e3e994488abf5041688f24a42d11bd58be83bdf0b4ae2b2747db15a1bd356505",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/스네즈나야 얼음 신의 눈동자 (전체).zip",
+      "size": 7664,
+      "sha256": "72cf8be68d67d834c5ec24f7cb8ba633b09a0bdd56a97f8a83a578cb14245cce",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/스네즈나야 워프 포인트 (전체).zip",
+      "size": 4468,
+      "sha256": "ef4e8caa0546c2eaf3d522934c09005294c73664c89ede00a2e1a2314bcedb21",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/이나즈마 모라 상자 (전체).zip",
+      "size": 5107,
+      "sha256": "daca352463d7835f900b7a3dbc99ef4a54106160018d9f28f9a7bc93df7cada2",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/이나즈마 번개 신의 눈동자 (전체).zip",
+      "size": 6524,
+      "sha256": "3bbee991467247ab865f7c321fc7413f3f0d0fc4c745914412eab7b0c837daca",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/이나즈마 워프 포인트 (전체).zip",
+      "size": 3474,
+      "sha256": "769ee9d4a5010bc18ef8270e31b7e2b645c318fbe5a4b7ed1f36f35a29a84443",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 나타 분할 버전.zip",
+      "size": 69279,
+      "sha256": "e30b1844558edb8517e402c83a7f121156cce84e304764885a974f3b21de0549",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 나타 통합 버전.zip",
+      "size": 66713,
+      "sha256": "e22394245ca1cf3605586684c1bda2d183dffc5aef7a48ba352f94a87f9896cb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 노드크라이 통합 버전.zip",
+      "size": 15317,
+      "sha256": "a1d237d26523dbd37459ad69f31fc87fe68123a21b4b684060d21c74490d8bb0",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 드래곤 스파인 분할 버전.zip",
+      "size": 20099,
+      "sha256": "ede0f1e354c101dc2b2671d359466780979b7a6c5b2a7a30c203e905f16872f1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 드래곤 스파인 통합 버전.zip",
+      "size": 16972,
+      "sha256": "e8320e2250daa60da75da22e8ac28abaf25aaaea151a8339dc2ef954460bf1cb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 리월 분할 버전.zip",
+      "size": 58425,
+      "sha256": "5bdac1337d2de4c9ec2b64dc1dbf901b3681197023adef09c0ec532674b18d67",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 리월 통합 버전.zip",
+      "size": 55272,
+      "sha256": "dbac36c71b26d52dd54de0193b6f78b468e7b1a5ed036d93eb4f5409ef3acffe",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 몬드 분할 버전.zip",
+      "size": 24344,
+      "sha256": "7842b7e76244011af0ce1f7b2a44a0389d40309a998b3c1fc4c662eedf079deb",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 몬드 통합 버전.zip",
+      "size": 21643,
+      "sha256": "8663ed1394064ee54a26e41b3a35ee83cf4d3692d0e9a5974d0e44ffb1b96293",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 수메르 분할 버전.zip",
+      "size": 171863,
+      "sha256": "2ce1f6299d3b4a5c4242f361df4c857dc18c8af96b65ff9158a585782f3939bc",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 수메르 통합 버전.zip",
+      "size": 163704,
+      "sha256": "3b5c00567dded1649360faf417b730b6cb40e7fb16b126e295c2b190850482e1",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 스네즈나야 분할 버전.zip",
+      "size": 55024,
+      "sha256": "8519d2e5c8012ec89084653e3e592af612a683a0b817f5092a790bae2021ebff",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 스네즈나야 통합 버전.zip",
+      "size": 51959,
+      "sha256": "469dc4cd765f9d2159a0d896fa02a1c39c38ae6767416cb3b3b86e3797912445",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 이나즈마 분할 버전.zip",
+      "size": 77311,
+      "sha256": "b6972dd635bb24f0a77daa62f90441e3a10cc02a9fc2a49942ee624c46fc11f4",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 이나즈마 통합 버전.zip",
+      "size": 73706,
+      "sha256": "2273372e97fa0158f977d97e76af1edd02932932c8b9bbacc16057cc0c523c55",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 지난날의 바다 통합 버전.zip",
+      "size": 7072,
+      "sha256": "9a3cc46827c06feb1e323d852e05c6cc8e818c920991b3105fc649b2143f9a59",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 태고의 신성한 산 통합 버전.zip",
+      "size": 6241,
+      "sha256": "d35a55298890d12a35f08df4d6d8e62175eee5731a8058885a78db1b8e5b019f",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 폰타인 분할 버전.zip",
+      "size": 82356,
+      "sha256": "7843dd373b13dea2a6ec55962bbeae5f208b76431dd2842b8d013e81db13e594",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/전체 폰타인 통합 버전.zip",
+      "size": 78150,
+      "sha256": "39a8fbdcd7cca7889235d8fd290d48f4efdbf5b4aea01e5d1db57d5852dc322a",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/지난날의 바다 물의 신의 눈동자 (전체).zip",
+      "size": 3169,
+      "sha256": "72e65668a03b8d5a034e5787c6be82d40ef670ba10ebb09e3fc1716d1898be82",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/층암거연 모라 상자 (전체).zip",
+      "size": 2805,
+      "sha256": "d78d6f262192864137c1b8f71de29f283c05fd4be0a462d05a0194b1f992600e",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/층암거연 워프 포인트 (전체).zip",
+      "size": 2099,
+      "sha256": "10b1c76abba33b451af4cbb38c5f49b86f12a765cd002cf381f11a5dfbafd81c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/태고의 신성한 산 불의 신의 눈동자 (전체).zip",
+      "size": 2667,
+      "sha256": "c871226611fc14b9e32f8903e8ab0ded367e999d2fd0e3668e60a9171180e928",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/폰타인 모라 상자 (전체).zip",
+      "size": 12089,
+      "sha256": "ac81d982da734c3b4742e50fe70f35c935c667de8f6e35444e5f2b8ac2364f86",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/폰타인 물의 신의 눈동자 (전체).zip",
+      "size": 7546,
+      "sha256": "8fd1b5fdb4a074e106be0b145faaeb4ef1a4baa3b29576a30bfd5635a9a6929c",
+      "updated": "2026-11-28T14:15:18.258Z"
+    },
+    {
+      "path": "Data/폰타인 워프 포인트 (전체).zip",
+      "size": 4315,
+      "sha256": "f22b2b54cd6380e24e167e1a71e3f2b0d8184bda028cea9dcb18ac717f423af9",
+      "updated": "2026-11-28T14:15:18.258Z"
+    }
+  ]
 }
