@@ -1,4 +1,4 @@
-Step 1: You Need To Download The File You Need. You Can Find It In ⁠[📦 · Kho File](#/files) & ⁠[🤝 · Kho File Cộng Đồng](#/community), Or You Can Download It From Other Sources. It's Up To You.
+Step 1: You Need To Download The File You Need. You Can Find It In ⁠[📦 · Kho File](#/files) Or You Can Download It From Other Sources. It's Up To You.
 ![image description](img/huong-dan-1-mwbrm053.png)
 Step 2: You Need To Extract The File, As The Sent Files Are Usually In ZIP Format. Right-Click On The File And Click 'Extract All', A Window Will Appear.
 ![image description](img/image-mwbrwzm5.png)
